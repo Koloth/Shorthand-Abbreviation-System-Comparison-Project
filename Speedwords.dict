@@ -1,0 +1,3610 @@
+# Speedwords-English dictionary.
+
+# Transcribed by Richard Kennaway from the "Dutton Speedwords Dictionary"
+# by R.J.G. Dutton, published by Dutton Rapid Writing Systems Ltd, 4th
+# edition, 1951.  Additional information from "Teach Yourself Dutton
+# Speedwords" by R.J.G. Dutton, published by Teach Yourself Books, revised
+# edition, 1971.
+
+# Blank lines and lines beginining with a # are comments.
+# Every other line contains a speedword or affix, and its English definition,
+# separated by a tab.
+
+# A hyphen in a speedword separates the components.  The hyphen is not part
+# of the speedword as customarily written, but is included here for the
+# convenience of computer programs.
+
+# A part of a speedword in parentheses may be omitted for speed.
+
+# Where a part of a speedword is enclosed in curly brackets, the bracketed
+# section may be included or omitted, giving two different legal speedwords,
+# sometimes with slightly different meanings.  For example, "axe" and "axem"
+# both mean "petition"; the latter specifically means a physical object,
+# whereas the former is a verb or abstract noun.
+
+# Where a speedword is a contraction of a longer form, the derivation is
+# indicated in square brackets, e.g. az[al oz].
+
+# Synonymous English definitions are separated by commas and no spaces.
+
+# A parenthesized part of an English definition is for disambiguation,
+# to explain which of several meanings of the defining word is intended.
+
+# Several classes of words are regularly formed by prefixes and suffixes,
+# and are therefore for the most part omitted from the dictionary.  These are:
+#   plurals (-z)
+#   comparatives (me-)
+#   superlatives (my-)
+#   past tenses (y-)
+#   present participles (u-)
+#   past participles (-d)
+#   negatives formed by the English affixes in-, un-, and -less (-n)
+#   possibilities formed by the English suffixes -able, and -ible (-b)
+# Thus the speedword for "incredible" is "krenb".
+
+# Dutton's original text does not repeat each root word explicitly for each
+# of its compounds.  I have chosen to do so for clarity.  In addition, I
+# have sometimes given extra parenthesized English explanations where a
+# definition appeared obscure on its own (e.g. tur-fi-v bow(knot)).
+# Misprints were corrected where noted; I may have introduced new misprints
+# of my own.
+
+
+
+# PREFIXES
+
+u-	present participle,present continuous
+y-	past tense
+me-	comparative
+my-	superlative
+
+
+# SUFFIXES
+
+-a	unfavourable
+-b	possibility,-ible,-able
+-c	collection
+-d	passive voice,past participle
+-e	augmentative
+-f	causative
+-g	general (an idea having a general relationship to the root)
+-i	association (after speedwords ending in a consonant)
+-k	quality
+-l	special (an idea having a special relationship to the root)
+-m	thing
+-n	negative,-less,in-,un-
+-o	contrary (after speedwords ending in a consonant)
+-p	place
+-r	person
+-s	complement (an idea having a complementary relationship to the root)
+-t	diminutive
+-u	favourable
+-v	association (after speedwords ending in a vowel)
+-x	contrary (after speedwords ending in a vowel)
+-y	causative
+-z	plural
+-st	professional
+
+
+# SPEEDWORDS-ENGLISH DICTIONARY
+
+&	and
+&-e	etcetera
+
+a	at,to
+a-c-u	thereto
+a-o	away
+
+ab	about,concerning,re,regarding
+ab-e	concern(n.)
+ab-i	infer,relate
+
+ac	buy,purchase
+ac-o	sale,sell
+ac-o-e	wholesale
+ac-o-p	market
+ac-o-r	salesman,vendor
+ac-o-t	retail
+ac-r	customer
+
+ad	add,-ition
+ad-e	sum
+a(d)-i	also,besides,further,moreover,plus,too
+ad-l	extra,supplement
+ad-o	deduct,subtract
+ad-o-l	discount
+ad-op-o	auxiliary
+ad-pa	bonus
+ad-s	accrue,accumulate
+
+af	business,trade
+af-e	commerce
+af-er	merchant
+af-in-r	broker
+af-m	commodity,goods,merchandise
+af-nut	grocery
+af-r	dealer,business
+af-ryl	banking
+af-t	affair
+af-vik-r	factor(business)
+
+ag	field
+ag-fru	orchard
+ag-u	garden
+ag-u-e	park
+
+ak	attack,aggression
+ak-e	charge
+ak-i	offence
+ak-o	defend,guard,protect
+ak-o-aq-l	umbrella
+ak-o-e	counter,counterattack
+ak-o-lum	shade
+ak-o-r	guardian
+ak-o-v	shelter(v.)
+ak-o-v-p	shelter(n.)
+ak-sud	raid
+
+al	all,whole
+al-be	already
+al-e	entirely,gross,total
+al-ge	altogether
+al-i	at all
+al-kon	unanimous
+ak-o	none
+al-t	summary
+
+alk	alcohol
+alk-a	methylated spirit
+alk-e	spirit
+alk-l	beer
+alk-u	wine
+
+am	affection,love
+am-b	amiable
+am-da	charity
+am-dem	patriotic
+am-d-r	sweetheart
+am-e	adore,worship
+am-e-v	reverence
+am-fa	enthuse
+am-i	lovely
+am-k	affectionate,fond,loving
+am-lud	flirt
+am-o	hate
+am-o-a	malice,spite
+am-t	like
+am-t-o	dislike
+
+amu	amuse
+amu-e	comic,fun
+amu-s	gay,jolly,merry
+amu-t	entertain
+amu-v	humour,wit
+amu-x	annoy
+amu-x-a	bore,tedious
+amu-x-e	provoke
+amu-x-k	tiresome
+
+an	annum,year
+an-k	annual,-ly
+
+ang	angle,corner
+ang-arm	elbow
+ang-e	fork(in road)
+ang-e-m	fork(utensil)
+ang-i	slope
+ang-i-e	steep
+ang-i-f	tip,tilt
+ang-kol	shoulder
+ang-leg	kee
+ang-ped	ankle
+
+ap	open
+ap-l	door
+ap-m	gate
+ap-o	close,shut
+ap-p	opening
+
+aq	water
+aq-a	fog
+aq-e	steam
+aq-gas	soda-water
+aq-i	wet
+aq-i-c	cloud
+aq-i-t	damp
+aq-i-ter	mud
+aq-i-x	dry
+aq-l	rain
+aq-min	mineral water
+
+ar	friend
+ar-l	cordial
+ar-k	friendship
+ar-o	enemy
+ar-za	chum,pal
+
+are	area,district,region
+are-do	camp
+are-l	county
+
+arg	argue,discus
+arg-a	controversy
+arg-e	debate
+arg-i	discuss
+arg-op	dispute
+arg-t	quibble
+arg-u	confer
+
+arm	arm
+arm-i	sleeve
+
+art	art
+art-i	artificial
+art-i-f	illustrate
+art-l	picture
+art-l-y	draw,-ing
+art-l-y-t	sketch
+art-ry-st	architect
+
+as	ascend,rise
+as-e	climb
+as-i	mount
+as-o{-a}	descend,drop,fall
+as-o-c	shower
+as-o-f	lower
+as-o-t	dip
+as-o-v	sink
+as-o-v-bri-l	sunset
+as-y	elevate,lift,raise
+
+at	anticipate,expect
+at-e	assume
+at-e-be{-a}	presume
+at-i	(a)wait
+at-n	unexpected
+at-o	surprise
+at-o-e	astonish
+at-s	fulfil
+at-s-o	disappoint
+at-u	hope
+at-u-e	aspire
+at-u-x	despair
+
+au	hear
+au-c	audience
+au-m	ear
+au-p	auditorium
+au-v	listen
+au-x	deaf
+
+aut	authority,official
+aut-af-r	consul
+aut-fa	commision
+aut-i	court
+aut-l{-r}	office,-r
+aut-r	official(person)
+aut-uk-e	executive
+aut-urb	municipal
+aut-urb-e	corporation
+aut-y	authorize
+
+av	fly
+av-i	bird
+av-i-aq	duck
+av-i-aq-e	goose
+av-i-e-nur	turkey
+av-i-s	hen
+av-i-t	chicken
+av-i-v	poultry
+av-m	aeroplane
+av-p	aerodrome
+
+ax	ask,enquire,inquire
+ax-a	demand
+ax{-a}-nes	requisition
+ax-cer	ascertain
+ax-e	appeal,beg,pray,solicit
+ax-e{-m}	petition
+ax-e-t	plea
+ax-i	apply
+ax-il-u	canvass
+ax-l	request
+ax-o	answer,reply,respond
+ax-u	invite
+
+az[al oz]	always,ever
+az-e	eternity,forever,perpetual
+az-o	never
+
+b	but
+
+ba	back,behind,rear
+ba-go	backwards
+ba-leg	calf
+ba-p	background
+ba-ped	heel
+
+bar	check,obstruct
+bar-e	block
+bar-e-e	blockade
+bar-i	resist
+bar-m	obstacle
+bar-t	handicap,hinder,impede
+bar-t-i	embarrass
+
+be	before(time),former,previous,prior
+be-k	preliminary
+be-mi	a.m.,forenoon,morning
+be-v	till,until
+be-v-nu	hereto,-fore,hitherto
+
+bed	layer,sheet,stratum
+bed-in	sandwich
+bed-jut	shelf
+bed-t	panel
+
+bel	beauty,beautiful
+bel-e	gorgeous
+bel-o	ugly
+bel-t	pretty
+bel-u	grace,-ful
+
+ber	bear,carry
+ber-a	burden
+ber-i	wear
+ber-i-f	clothing
+ber-m	freight,lading,load
+ber-m-ve	carload
+ber-r	porter
+ber-s	ride
+ber-s-r	passenger
+ber-y{-m}	load
+
+bi	life,live
+bi-e	lively
+bi-k	vital
+bi-m	creature(animal)
+bi-r	creature(person)
+bi-s	sex
+bi-u	welfare
+bi-v	exist
+bi-x	die,death
+bi-x-k	fatal,mortal
+bi-x-y	kill
+bi-x-y-a	murder
+
+bib	drink
+bib-bru	cocoa
+bib-e	coffee
+bib-l	tea
+bib-m	cup
+bib-mel-o-g	vinegar
+bib-t	lap
+bib-u	milk
+bib-u-e	cream
+bib-u-fir	cheese
+bib-vig	cordial(drink)
+
+bid	bid,command,order,tell
+bid-e	dictate(order)
+bid-i	instruction,-s
+bid-r	commander,master
+bid-ri	dictate(for transcription)
+bid-s	comply,obey
+bid-s-c	staff
+bid-s-r	servant
+
+bil	account,bill
+bil-e	statement(of account)
+
+bit	bit,piece
+bit-a	scrap
+bit-e	block
+
+ble	corn,grain
+ble-bru	rye
+ble-g	wheat
+ble-wy	rice
+ble-zo	oats
+
+blu	blue
+blu-rud	purple
+
+bo	tree
+bo-alk-u	vine
+bo-c	wood
+bo-c-e	forest
+bo-nor	pine
+bo-s	wood
+bo-s-e	timber
+bo-s-i	board
+bo-s-mel	maple
+bo-s-odo	cedar
+bo-t	plant
+bo-t-a	weed
+bo-v	branch
+
+bod	body,trunk
+bod-i	coat
+bod-i-e	overcoat
+bod-i-ov-o	waistcoat
+bod-k	physical
+
+bol	ballgame
+bol-cav	golf
+bol-fi	tennis
+bol-fir-m	basket-ball
+bol-g	football
+bol-nyn	baseball
+
+bor	border,edge
+bor-i	margin
+bor-l	lip
+bor-ter	beach,coast,shore
+
+bra	brave,courage
+bra-e	bold,dare
+bra-f	encourage
+bra-f-o	discourage
+bra-r	hero
+bra-x	apprehension,dread,fear,fright
+bra-x-a	horror
+bra-x-a-k	horrible
+bra-x-e	terror
+bra-x-e-k	terrible
+bra-x-i	nervous
+bra-x-t	afraid
+bra-x-y{-m}	alarm,scare
+
+bri	shine
+bri-e	bright,brilliant
+bri-g	star
+bri-he	glow
+bri-k	splendid
+bri-k-e	glorious
+bri-l	sun
+bri-x	dull
+
+bru	brown
+bru-f	tan
+
+bu	book
+bu-bil	ledger
+bu-cel	bible
+bu-et	booklet
+bu-et-i	pamphlet
+bu-mot	dictionary
+bu-stu	text-book
+bu-v	magazine
+
+by	by
+by-c	hereby
+by-cu	thereby
+by-qu	whereby
+
+c	this,these
+c-d(e)	to-day
+c-d(e)-x	to-night
+c-u{-z}	that,those
+c{-z}	these
+
+ca	room
+ca-dor	bedroom
+ca-e	hall
+ca-l	chamber
+ca-pur-i-e	bathroom
+ca-t	cabin,closet
+ca-ter	cellar
+ca-u	apartment
+ca-u-g	parlour
+ca-ve	coupe'
+
+cav	hollow
+cav-a	grave
+cav-i	hole
+
+ce	receive
+ce-b	receivable
+ce-e	entertain
+ce-e-r	host,-ess
+ce-sek	heir
+
+cel	heaven
+cel-i	divine
+cel-o	hell
+cel-o-r	devil
+cel-r	angel
+
+cen	hundred
+cen-an	century
+
+cer	certain,positive,sure
+cer-n	uncertain
+cer-u	guarantee,warrant
+cer-u-m	security(pledge)
+cer-y	assure,certify,ensure
+cer-y-m	certificate
+
+ci	decide
+ci-c	committee
+ci-d-n	undecided
+ci-e	determine,resolve
+ci-jur	sentence(decision)
+ci-kup	convict
+ci-vib	hesitate
+
+cir	circle,ring
+cir-i	arc
+cir-i-e	arch
+cir-l	circular
+cir-m	wheel
+cir-m-ruk-o	pulley
+cir-m-s	tyre
+cir-p{-amu}	circus
+
+co	collect,collection
+co-a	mob
+co-e	crowd
+co-g	compile(collect)
+co-l	package,parcel
+co-mot	vocabulary
+co-reg	board(committee)
+co-ut	compound(multiple)
+
+con	cone
+
+d	from,of
+d-c-u	thereof
+
+D1	Sunday
+
+D2	Monday
+
+D3	Tuesday
+
+D4	Wednesday
+
+D5	Thursday
+
+D6	Friday
+
+D7	Saturday
+
+da	give
+da-a	sacrifice
+da-e	generous
+da-e-x	mean
+da-g	distribute
+da-ga	devote
+da-l	render
+da-l-ga	surrender
+da-m	donation,gift,present
+da-m-u	prize,reward
+da-t	contribute
+da-u	allow,confer,grant
+da-u-stu	scholarship
+da-v	delivery
+
+de	day
+de-an	anniversary
+de-be	yesterday
+de-gen	birthday
+de-ik	daily
+de-l	date
+de-po	to-morrow
+de-x	night
+de-x-i	evening
+de-x-u	good-night
+
+deb	debt,owe
+deb-d	indebted,liability
+deb-i	ought,should
+deb-ik	obligation,responsibility
+deb-y{-d}	oblige,-d
+
+def	define,distinguish
+def-e	definite
+def-n	indefinite,vague
+def-o	confuse
+def-u	distinct
+
+dek	right(hand)
+dek-o	left,-hand
+
+dem	nation,people
+dem-e	empire
+dem-e-t	colony
+dem-in	international
+dem-rex-n	republic
+
+des	desire,want,wish
+des{-a}-sa	curious
+des-bib	thirst
+des-e	eager
+des-i	appetite
+des-ky	hunger
+des-suk	ambition
+
+di	say,state
+di-a	allege
+di-be	introduce
+di-cer-y	vouch
+di-dra	recite
+di-e	affirm,assert,declare
+di-e-e	swear
+di-el	telephone
+di-el-t	microphone
+di-e-pru	testify
+di-e-v	profess
+di-fe-x	apology
+di-ju	comment
+di-kup	accuse
+di-no	remark
+di-nob-o	scandal
+di-od	directions,instructions
+di-op	protest
+di-t	mention
+di-t-i	allude
+
+dig	finger
+dig-i	finger-nail
+dig-s	toe
+
+dik	fat,thick
+dik-o	lean,thin
+dik-o-t	slight
+dik-o-u	fine
+
+dio	God
+a-dio	goodbye
+
+dip	deep
+dip-e	profound
+
+dir	direction
+dir-a	towards
+dir-i	incline,tend
+dir-y	conduct,guide
+
+dis	disc
+dis-ge	button
+dis-l	plate
+dis-l-e	dish
+dis-nob	medal
+dis-num	counter
+dis-u	record
+
+do	dwell,live,reside
+do-c	population
+do-dut	lodge
+do-dut-r	guest
+do-g	hotel
+do-in-r	citizen
+do-l	home
+do-l-k	domestic
+do-p	address,quarters
+do-t	visit
+do-t-t	call
+do-ve	garage
+
+dok	document
+dok-cer	policy
+dok-l	bond
+dok-las	licence
+
+don	excuse,pardon
+don-e	forgive
+don-o	punish
+
+dor	sleep
+dor-k	asleep
+dor-m	bed
+dor-o	awake
+dor-o-f	arouse,(a)wake(n)
+dor-p	dormitory
+dor-t	nap
+
+dos	two,2
+dos-i	second
+dos-i-k	secondary
+dos-k	double,twice
+dos-l	couple
+dos-u	pair
+dos-u-gen	twins
+
+dra	act,drama,play(n.)
+dra-muz	opera
+dra-p	theatre
+
+du	continue,keep,last
+du-bi	survive
+du-e	endure
+du-fir	persist
+du-ga	permanent
+du-k	continual
+du-mau	throat
+du-t	awhile,temporary
+du-v	still,yet
+du-x	cease,stop
+du-x-pe	adjourn,suspend
+du-x-t	pause
+
+dy	since
+
+e	am,are,is,be
+e-v	become,get
+e-v-u	union
+e-v-u-e	corporation
+e-v-u-re	reunion
+
+eb	even
+
+ed	conclude,end,finish
+ed-e	final
+ed-i	expire
+ed-o	begin,commence,initial,institute,start
+ed-o-f	initiate
+ed-u-id-o	compromise
+{ed-o-}as	arise(come into existence)
+
+ef	capable,competent,efficient
+ef-e	skill
+ef-e-e{-r}	expert
+ef-k	talent
+ef-l	technique,-cal
+ef-lud	athletic,-s
+ef-lud-r	athlete
+ef-o	incapable
+ef-o-t	awkward
+ef-su-e	champion
+ef-o	clever,smart
+
+eg	equal
+eg-i	balance,even
+eg-i-f	compensate
+eg-i-n	odd
+eg-i-v	offset
+
+eis	ice
+eis-as-o	hail
+eis-y	freeze
+eis-y-m	refrigerator
+
+ek	church
+ek-st	pastor
+ek-t	chapel
+
+el	electric,-ity
+el-kem-y	galvanise
+
+ele	element
+
+em	emotion
+em-e	passion
+em-n	sober
+em-sen	sentient
+em-tru	thrill
+em-y	excite
+
+en	attend to,attention,mind
+en-a	trouble,worry
+en-a-t	bother
+en-ca-r	chambermaid
+en-e	care,-ful,pains
+en-e-a	anxious
+en-e-a-v	fuss
+en-mo	careless
+en-e-u	caution,discretion,prudence
+en-i	serve
+en-ky-r{-s}	waiter,-ress
+en-l{-r}	nurse
+en-o	neglect
+en-sol	concentrate
+en-u	miister
+
+eng	narrow
+eng-o	broad,wide
+
+ent	enter
+ent-a	invade
+ent-o	emerge,exit,issue
+ent-op	exit
+ent-o-ri	edition
+ent-ry-p	porch
+
+ep	location,place,position,put,set
+ep-a	mislay,misplace
+ep-e	instal
+ep-e-e	settle
+ep-ge{-u}	compose
+ep-i	apply(physical)
+ep-ku-d	enclosure
+ep-l	local
+ep-o	remove
+ep-ov-o	bury
+ep-ry-f	site
+ep-u	deposit
+ep-ur	replace
+
+er	person
+er-c	company
+er-ci	referee,umpire
+er-e{-u}	party
+er-e-a	gang
+er-e-e	league
+er-i	one,you,they(impersonal)
+er-k	personal,-ity
+er-z	people
+er-z-u	folk
+
+ern	earnest
+ern-a	severe
+ern-e	serious,solemn
+
+es	assess,estimate,reckon
+es-be	forecast
+es-e	calculate
+es-ge	compare
+es-ge-s	comparatively
+es-u	approve
+
+est	appreciate,esteem
+est-a	envy,jealous
+est-e	admire
+est-o	contempt,despise
+est-u	respect
+
+et	little,small
+et-e	minute,tiny
+et-u	plaything,toy
+et-ur	doll
+
+f	for
+
+F[femu]	Madam
+
+fa	act,commit,deed,do,make
+fa-be	anticipate
+fa-e	active,busy
+fa-g	function
+fa-ge	cooperate
+fa-k	practical,-ly
+fa-m	agent
+fa-n	refrain
+fa-o	affect
+fa-pol	courteous
+fa-r-c	crew,team
+fa-u	benefit,treat
+fa-ut-t-e	elaborate
+fa-v	tgreat
+fa-x	cancel
+
+fab	fabric,material
+fab-ak-o	serviette
+fab-ak-o-v	napkin
+fab-dik	rug
+fab-do	tent
+fab-e	textile,weave
+fab-han	handkerchief
+fab-i	cloth
+fab-i-t-a	rag
+fab-li	towel
+fab-ov-o	mat
+fab-pen	curtain
+fab-sig	flag
+fab-ven	sail
+
+fas	easy,facile
+fas-o	difficult
+fas-o-a	hardship
+fas-o-l	problem,puzzle
+fas-o-t	awkward
+fas-y	facilitate
+
+fat	fat
+fat-o	lean
+fat-u	butter
+
+fe	cheerfulness,glad,happy,pleased
+fe-e	delight,glee,joy
+fe-f	cheer up
+fe-l	laugh
+fe-l-o	cry,weep
+fe-l-s	joke
+fe-l-t	smile
+fe-n	unhappy
+fe-s	enjoy
+fe-s-e	rejoice
+fe-s-e-x	mourn
+fe-v	bless
+fe-x	sad,sorry
+fe-x-a	tragic
+fe-x-e	grief,misery
+fe-x-e-r	wretch
+fe-x-e-t	melancholy
+fe-x-t	regret
+
+fem	woman
+fem-i	female
+fem-mar	wife
+fem-mar-a	widow
+fem-oz-mar	bride
+f(em)-t	girl
+fem-t-e	Miss
+fem-u	lady,Madam
+
+fet	celebration,feast,festival
+fet-bi-re	Easter
+fet-e	carnival
+fet-l	Christmas
+
+feu	burn,combustion,fire
+feu-f	ignite,light
+feu-m	fuel
+feu-s	smoke
+
+fi	filament,thread
+fi-c	brush
+fi-dik	rope
+fi-e	cord
+fi-e-e	cable
+fi-g	string
+fi-gro	straw
+fi-jut-i-c	tooth-brush
+fi-ku	net
+fi-met	wire
+fi-orn	lace
+fi-pur	mop
+fi-sla	whip
+fi-v	band,belt
+fi-v-les	bandage
+fi-v-orn	sash
+fi-v-u	ribbon
+
+fid	faithful,loyal
+fid-o	false
+
+fil	son
+fil-fra	nephew(through brother)
+fil-s	daughter
+fil-s-fra	niece(through brother)
+fil-sis	nephew(through sister)
+fil-s-sis	niece(through sister)
+
+f(i)n	find
+f(i)n-ep	locate
+
+fir	firm
+fir-e	stiff
+fir-ge-f	consolidate
+fir-i	confirm,endorse
+fir-o	flexible
+
+fis	fish
+
+fix	fix,secure
+fix-e	tight
+fix-fi	sew,stitch
+fix-ge{-m}	bind,-ing
+fix-i	adhere,stick
+fix-l	lock
+fix-l-s	key
+fix-l-y	bolt
+fix-m	fixture
+fix-o	loose
+fix-t	clip
+fix-y	fasten
+
+fla	inflame,inflammation
+fla-g	fever
+fla-mel-o-g	rheumatism
+fla-spi	pneumonia
+
+fle	flesh
+fle-e	muscle
+fle-v-ly	sausage{misprinted in dictionary as flely}
+fle-v	meat
+
+flo	flower,bloom
+flo-rud-i	rose
+flo-t	blossom
+
+flu	current,flow
+flu-e	pour
+flu-eng	creek
+flu-g	river
+flu-g-t	stream
+flu-pe	tide
+flu-s	ebb
+
+fo	before(place),fore,front
+fo-bod	chest
+fo-e	ahead
+fo-s	confront,face,opposite
+fo-v	advance,forward,-s,proceed,progress
+fo-v-i	forth
+fo-v-y	promote
+
+fol	leaf
+fol-u	tobacco
+fol-u-l	cigar
+fol-u-t	cigarette
+
+fon	origin,source
+fon-k	original
+fon-r	author,originator
+fon-re	resource
+fon-s	derive
+fon-sal	spring(water)
+fon-u	principle
+fon-u-g	theory
+fon-y	create,invent
+
+for	form,shape
+for-e	figure
+for-i	formal
+for-id-i	uniform
+for-l	form(written)
+for-t	frame
+for-u	handsome
+
+fot	photogrph
+fot-e	cinematograph
+fot-i	film
+
+fra	brother
+fra-k	fraternal
+fra-v	cousin
+
+fru	fruit
+fru-alk-u	grape
+fru-e	nut
+fru-g	apple
+fru-gar-g	jam
+fru-gel	lemon
+fru-gel-e	orange
+fru-gla	plum
+fru-mel	peach
+fru-oil	olive
+fru-sau	tomato
+
+fu	few
+
+ful	fill,full
+ful-o	blank,empty,vacant
+ful-o-e	exhaust
+ful-o-f	vacate
+ful-o-v	evacuate
+
+fun	five,5
+
+fur	furnish,provide,supply
+fur-cel	providence
+fur-e{-c}	equip,-ment,outfit
+fur-g	furniture
+fur-i	accomodate
+fur-u	afford
+
+fy	cause,make,reason,render
+fy-a	compel,enforce,insist
+fy-e{s}	produce,-t
+fy-e-x	consume
+fy-fa-e	stimulate
+fy-s	consequence,effect,hence,result,therefore
+fy-s-k	effective
+fy-v	incur
+fy-x	prevent
+
+g	them,they
+g-i	their,-s
+
+ga	complete,quite
+ga-e	absolutely,utterly
+ga-g	accomplish,achieve
+ga-l	mature,ripe
+ga-l-o	raw
+ga-n	hardly,scarcely
+ga-u	perfect
+ga-u-v	exquisite
+
+gar	keep,retain
+gar-c	stock,store(of things)
+gar-e	conserve
+gar-i	economy
+gar-l	preserve
+gar-pam-l	treasury
+gar-pam-r	treasurer
+gar-n	dispose
+gar-n-a	waste
+gar-o	expend,spend
+gar-p	store(place)
+gar-u	reserve,save
+gar-u-c	savings
+
+gas	gas
+
+ge	connect,join,together
+ge-a	tie
+ge-c	group
+ge-cirm	gear
+ge-dem	federate
+ge-f	gather,-ing
+ge-f-gro	harvest
+ge-fi	tie
+ge-fi-e	knit
+ge-g	club
+ge-in	communicate
+ge-lat	collateral
+ge-m	link
+ge-met	chain
+ge-muz	concert
+ge-op-o	ally,-iance
+ge-reg	trust
+ge-s	affiliate
+ge-sla-m	nail
+ge-t	attach
+ge-u	combine
+ge-v	associate,join
+ge-v-e	association
+ge-x{-y}	apart,disconnect,individual,separate
+ge-x-fi{-m}	comb
+
+gel	yellow
+gel-e	orange
+
+gen	borth,generate,yield
+gen-c	stock
+gen-d	born
+gen-i	conceive
+gen-r	parent
+gen-s	offspring
+
+gla	smooth
+gla-f	plane
+gla-v	fine
+gla-x	rouch
+gla-x-a	coarse
+
+gm	gram
+
+go	go
+go-aq	swim
+go-by	pass
+go-cir	circulate
+go-e	run
+go-g	walk
+go-g-a	lame
+go-g-e	hike,tramp
+go-g-ord	march
+go-kru	transit
+go-p	destination
+go-pen	float
+go-sud	dash,bolt
+go-t	pace,step
+go-v	depart
+go-v-l	escape
+go-v-u	farewell
+go-v-y	dismiss,quit
+go-we	errand
+
+gom	(india)rubber
+
+gra	gratitude,thank,-s
+gra-da	thanksgiving
+gra-k	grateful
+
+gre	degree,grade,stage
+gre-bi	estate
+gre-c	scale
+gre-e	awfully,tremendously
+gre-g	stair,step
+gre-he	temperature
+gre-he-m	thermometer
+gre-k	gradual
+gre-l	degree,diploma
+gre-l-r	graduate
+gre-ot-i	phase
+gre-sit	station,status
+gre-t	rather,somewhat
+
+gro	grow
+gro-c	crop,-s
+gro-p	farm
+gro-t	bud
+gro-v	develop,cultivate
+gro-v-l	culture
+
+gu	good
+gu-l	good(moral)
+gu-t	nice
+gu-v	kind
+gu-x	bad
+gu-x-a	evil
+gu-x-a-e	vice
+gu-x-e	awful
+gu-x-t	naughty
+
+gus	flavour,taste
+gus-u	tasty
+gus-u-c	salad
+
+h	has,have
+hu	having
+hy	had
+
+ha	have,own,possess
+ha-c	estate
+ha-er	owner,possessor
+ha-m	possession,property
+ha-p-r	landlord
+ha-s	belong
+ha-s-m	asset,-s,means
+ha-s-r	member
+ha-s-t	pertain
+ha-x	lack,miss
+ha-x-nur	starve
+ha-x-ra	unemployed
+
+hab	common,custom,habit,normal,ordinary,use,usual
+hab-a	common
+hab-a-e	vulgar
+hab-i	prevail
+hab-n	funny,odd,strange,unusual
+hab-n-i	queer
+hab-o	rare
+hab-o-e	extraordinary
+hab-u	moral
+hab-y	accustom
+
+han	hand
+han-b	handy
+han-i	glove
+han-k	manual
+han-u-s	handle
+
+har	hair
+har-e	fur
+
+haz	chance,hazard,luck
+haz-a	alas!,unfortunate,unlucky,misfortune
+haz-e	risk
+haz-i	guess
+haz-l	lots
+haz-o	fate
+haz-pa	bet
+haz-u	fortunate,lucky
+haz-u-k	adventure
+
+he	heat,hot
+he-f-m	stove
+he-t	warm
+he-x	cold
+he-x-a	chilly
+he-x-t	cool
+
+hem	half
+
+hi	conceal,hide
+hi-e	mystery
+hi-l	secret
+hi-v{-m}	screen
+hi-x	disclose,reveal
+
+ho	high,tall
+ho-c	heap,pile
+ho-l	hill
+ho-l-e	mountain
+ho-x	low
+
+hom	honest,sincere
+hon-o	deceive
+hon-o-fa	trick
+hon-o-t	pretend
+hon-o-v	bluff
+hon-u	frank
+
+hor	hour,o'clock
+
+hu(m)	humble
+hu(m)-a	ashamed,shame
+hu(m)-v	modest
+hu(m)-x	proud
+hu(m)-x-a	vai
+
+i	in,within
+i-a	into
+i-c-u	thereto
+i-e	inside,internal,interior
+i-e-f	insert,introduce
+i-ep	invest
+i-qu	wherein
+i-x	out
+i-x-e	exterior,external,outside
+i-x-e-v	outdoor,-s
+i-x-ko	outcome
+
+ib	possible
+ib-o	impossible
+ib-op	lest
+ib-u	likely,probable
+
+id	identical,same
+id-i	alike,like,similar
+id-i-e	image
+id-i-f	model(v.)
+id-i-n	unloike
+id-i-u	act(stage)
+id-i-u-s	role
+id-o	different
+id-o-e	diverse,variety,various
+id-o-l	contrast
+id-re	duplicate
+id-y	copy,imitate
+id-y-s	example,model,pattern
+
+if	inform,tell
+if-a	gossip
+if-aut	bulletin
+if-e	news
+if-e-e	press(newspapers)
+if-e-g	journal,newspaper
+if-e-of-i	rumour
+if-e-r-c	press(reporters)
+if-i	advertise,announce
+if-i-l-u	propaganda
+if-i-m	bill,poster
+if-i-n	communicate
+if-kre-u	confide
+if-l	report
+if-m	message
+if-t	tip
+if-u	publish,publicity
+if-u-m	publication
+
+ig	general
+ig-e	universal
+ig-i	common
+
+ik	property,quality
+ik-e	enhance,intense
+ik-l	character
+ik-u	satisfactory
+ik-u-d	content
+ik-u-f	satisfy
+ik-u-n	unsatisfactory
+ik-u-x	dissatisfaction
+ik-y	qualify
+
+il	particular,special,especial
+il-e	specify,specific
+il-i	peculiar
+il-y	specialise
+
+ilu	influence
+ilu-a	tempt
+ilu-e	inspire
+ilu-l	fascinate
+ilu-t	affect
+ilu-u{-na-x}	charm
+ilu-v	induce,persuade
+
+im	idea,imagine,suppose
+im-e	fancy
+im-i	fiction
+im-l	dream
+im-o	actual,fact,indeed,nett,real
+im-o-c	data,statistics
+im-o-f	realise
+im-o-u	genuine
+im-t	notion
+im-u	ideal
+im-vu	visualise
+
+in	among,between
+in-e	mingle,mix
+in-e-k	miscellaneous
+in-e-v	intercourse
+in-i	attend,present
+in-o	absent,away
+in-o-a	missing
+in-s	about,surround
+in-sit	intermediate
+in-spa	interval
+
+ind	indicate
+ind-e	point,point out
+ind-l	character,symbol
+ind-i-c	notation
+ind-kla	brand
+ind-m	sign
+ind-ri	mark
+
+int	interest
+int-i	behalf
+int-mo	indifferent
+
+ip	self,selves
+ip-i	own,proper
+ip-i-f	adopt
+ip-k	selfish
+ip-ki	automatic
+ip-men	subjective
+ip-men-s	objective
+
+ir	here
+ir-a	hither
+ir-d	thence
+i(r)-o	there
+ir-o-d	thence
+ir-o-i	therein
+ir-ze	herewith
+
+is	complement
+is-i	opposite,over,reverse
+
+isk	insect
+isk-flo	bee
+isk-l	fly
+
+ist	professional
+ist-i	profession
+ist-o	amateur
+ist-s	client
+
+it	implement,instrument,tool
+it-gen	battery
+it-gla-f	plane
+it-i	apparatus
+it-li	spoon
+it-lum	lamp
+it-ol-li-s	corkscrew
+it-pin-e	pick
+it-rub	file
+it-ruk-o	plough
+it-vu	spectacles
+
+ite	journey,travel,voyage
+ite-e	tour
+ite-g	train
+ite-s	luggage
+ite-t	trip
+
+iv	association(indef. preposition)
+
+iz[ir ze]	herewith
+
+j	I,me
+j-i	mine,my
+
+ja	directly,presently,shirtly,soon
+ja-e	forthwith,immediately,instantly
+
+je	each,every,per
+je-cen	per cent
+je-l	both
+je-p	everywhere
+je-v	respective
+
+jet	cast,throw
+jet-e	fling,pitch
+jet-li-e	fountain
+
+jm[je om]	everything
+
+jr[je er]	everybody,eberyone
+
+ju	deem,judge
+ju-be-a	prejudice
+ju-c	jury
+ju-e	criticise
+ju-if-u	censor
+ju-k	judicious
+ju-l	opinion,theory
+ju-st	judge
+
+jun	young,youth
+jun-c	youth
+jun-e	baby
+jun-k	youthful
+jun-o	age,old
+jun-r	child,kid
+
+jur	law,legal
+jur-g	police
+jur-i	judicial
+jur-o	crime
+jur-o-r	criminal
+jur-st	attorney,lawyer,solicitor
+jur-y	legislate
+
+j(u)s	fair,just,right
+jus-i	claim
+jus-i-e	assert
+jus-i-s	deserve,merit
+jus-k	justice
+jus-l	right,title
+jus-l-d	entitled
+jus-n	injustice,unfair,unjust
+jus-o	wrong
+jus-u	equity,equitable
+jus-y	justify
+
+jut	jut,project,projection
+jut-e	prominent
+jut-e-u	outstanding
+jut-i	tooth
+jut-ist	dentist
+jut-op	bay
+
+k	that(conj.)
+
+K[koml]	company,firm
+
+ka	chief,head
+ka-k	main,principal
+ka-p	headquarters
+ka-r	boss,chief,head,principal
+ka-ra-r	foreman
+ka-sta-p	stationmaster
+ka-v	hat
+ka-v-t	cap
+ka-v-u	crown
+
+kal	alkaloid
+
+kan	sing,song
+kan-c	choir
+
+ke	credit,due
+ke-a	overdue
+ke-f	earn
+ke-u	duty
+ke-v	duly
+
+kem	chemical
+kem-i{-g}	salt
+
+ken	acknowleedge,admit
+ken-e	confess
+ken-o	dent,contradict
+
+ki	motion,move
+ki-a	disturb
+ki-f	stir
+ki-fy	motive
+ki-ot-i	switch
+ki-t	stir
+ki-t-u	reach
+ki-v	pass
+ki-x	quiet,still
+ki-x-i	stationary
+ki-x-u	calm
+
+kin	kinkindredrelate,relation
+kin-c	family
+kin-e	race
+kin-r	relative,relation
+
+kla	class,kind,sort
+kla-f	assort,classify
+kla-l	type
+kla-luf	climate
+kla-t	species
+kla-u	classic,classical
+
+ko	come
+ko-e	forthcoming
+ko-go	traffic
+ko-ny	access,approach
+ko-u	welcome
+ko-v	arrive
+
+kok	cook
+kok-ap	raost
+kok-e	bake
+kok-pla	fry
+kok-l	boil
+kok-p	kitchen
+
+kol	neck
+kol-i	collar
+
+kom	accompany,company
+kom-a	haunt
+kom-ak-o	convoy
+kom-i{-r}	comrade,fellow
+kom-i-k	fellowship
+kom-l	company
+kom-m	companion(animal)
+kom-r	companion(person)
+kom-za	mate
+
+kon	accord,agree
+kon-c	set
+kon-e{-m}	contract
+kon-e-ha-m	lease
+kon-for	conform
+kon-g	convention
+kon-i	according (to)
+kon-in	correspond(agree)
+kon-k	appropriate
+kon-l	convenient,suit
+kon-m	agreement
+kon-o	disagree
+kon-o-a	quarrel
+kon-s	match
+kon-u	harmony
+
+kos	world
+kos-e	universe
+kos-o	sky
+
+kot	cotton
+kot-a	gingham
+kot-i	linen
+
+kre	believe,belief
+kre-b	believable
+kre-b-n	incredible
+kre-e	conviction
+kre-f	convince
+kre-g	creed,doctrine
+kre{-g}-sok	socialism
+kre-n	doubt
+kre-on-c	communism
+kre-t-a	suspect,suspicion
+kre-u	confidence,credit,faith,trust
+kre-ud-r	trustee
+
+kru	cross
+kru-l	swastika
+kru-v	across
+
+ku	contain,enclose,hold,include
+ku-d-aq	lake
+ku-e	incorporate
+ku-k	capacity
+ku-l	yard
+ku-l-y	fence
+ku-m	contents,measure
+ku-n	except,omit
+ku-v	involve
+ku-x	eliminate,exclude
+
+kub	cube
+
+kup	culpable,fault,guilt
+kup-e	sin,wicked
+kup-o	innocent,virtue
+kup-i{-r}	delinquent
+
+kur	curve
+kur-bod	bow
+kur-e	coil
+kur-ed	hook
+kur-ge	loop
+kur-u	curl
+kur-y	bend
+
+kut	cut
+kut-ge-m	scissors
+kut-ge-t	clip
+kut-i	section
+kut-l	knife
+kut-l-t	penknife
+
+ky	eat
+ky-do	board
+ky-f	feed
+ky-fa	bite
+ky-fe-t	banquet
+ky-luf	picnic
+ky-mi	midday meal
+ky-p	restaurant
+ky-p-t	cafe
+ky-s	digest
+ky-t	lunch
+ky-ta	supper
+ky-ta-x	breakfast
+ky-u	dine
+ky-v	swallow
+ky-x	sick(vomit)
+
+l	the
+
+L1	January
+
+L2	February
+
+L3	March
+
+L4	April
+
+L5	May
+
+L6	June
+
+L7	July
+
+L8	August
+
+L9	September
+
+L10	October
+
+L11	November
+
+L12	December
+
+la	big,great,large,size
+la-a	gross
+la-e	huge,immense,tremendous,vast
+la-me	enlarge
+la-u	grand,magnificent
+
+las	allow,leave,let,permit
+las-a	licence
+las-e	countenance
+las-ent	admit(let in)
+las-ite	passport
+las-ite-v	visa
+las-m	permit
+las-o	forbid,prohibit
+las-sol	patent
+las-t	concede
+las-u	privilege
+
+lat	side
+lat-i	aside,beside
+lat-kol-s	tonsil
+lat-l	wall
+
+le	letter
+le-c	correspondence,mail
+le-e	epistle
+le-t	note
+le-u	favour
+
+leg	leg
+leg-i	hose,stocking
+leg-i-t	sock
+
+lek	lecture
+lek-ek	sermon
+lek-i	preach
+lek-u	oration
+
+len	gentle,mild
+len-o	drastic,violent
+len-o-c	storm
+
+les	damage,harm,hurt,injure
+les-a	poison
+les-d-r	victim
+les-e	wound
+les-i	niusance
+les-i-t	mischief
+les-o	mend,repair
+les-o-kru	darn
+les-o-m	remedy
+les-s	sore
+les-t	mar,spoil
+
+li	liquid
+li-bi	blood
+li-c	pool
+li-e	liquor
+li-f	melt
+li-nur	soup
+li-og	tear,-s
+li-ri	ink
+li-s	solid
+li-u	juice
+li-v	semi-liquid
+li-v-pel	jelly
+
+lib	deliver,discharge,free,liberate,release
+lib-o	confine,suppress
+lib-o-a-r	slave
+lib-o-ki{-m}	brake
+lib-o-t	restrain,restrict
+lib-s	free,liberty,rid
+lib-t	relieve
+lib-u	liberal
+
+lim	bound,limit,utter
+lim-e	utmost,uttermost
+lim-fix	boundary
+lim-o	infinite
+lim-t	quality
+lim-ter-l	frontier
+
+lin	language
+
+lo	length,long
+lo-v	along
+lo-x	brief,short
+
+lob	praise
+lob{-a}	flatter
+lob-i	commend,compliment
+lob-l	congratulate
+lob-o	blame
+lob-o-a	abuse
+lob-o-v	complain,grumble
+
+log	logic,sense
+log-i	reason,-able
+log-i-x	unreasonable
+log-o	absurd
+log-o-a	ridiculous
+
+lon	lend,loan
+lon-hap	mortgage
+lon-s	borrow
+
+lot	allot,assign,deal
+lot-s	lot,participate,share
+lot-s-e	stock
+lot-s-r	partner
+lot-suk-r	jobber
+lot-u	award
+
+lt	litre
+
+lu	month
+lu-be	ult.
+lu-nu	inst.,-ant
+lu-po	prox.
+lu-v	moon
+
+lud	game,play
+lud-u	sport
+
+luf	air
+luf-e	weather
+luf-ho	ether
+luf-i	atmosphere
+luf-o	vacuum
+
+lum	illuminate,light
+lum-fat	candle
+lum-i	fair,light
+lum-i-x	dark
+lum-o	dark,-ness
+lum-o-f	black-out
+lum-o-t	gloom
+lum-s	shade,shadow
+
+lut	contest,match
+lut-a	combat,fight
+lut-e	tournament
+lut-han	box,-ing
+lut-i	contend
+lut-i-e	struggle
+lut-rap	race
+lut-u	compete,-ition
+
+ly	long-and-thin
+ly-ba	tail
+ly-e	shaft
+ly-g	stick
+ly-g-dik	log
+ly-g-e	pole
+ly-g-feu	match[Eng-SW gives lyfeu]
+ly-g-i	rod
+ly-g-nav	oar,row
+ly-l	file,line,row
+ly-l-bor	outline
+ly-l-t	dash(line)
+ly-m	cylinder
+ly-rev-m	crank
+ly-ri	stroke
+ly-sem-e	bean
+ly-sem-t	pea
+ly-sev	column
+ly-shu	shell(of gun)
+ly-sta	post
+ly-sut	rail
+ly-x	lump
+
+m	with
+m-o	without
+m-o-fy-s	vain(useless)
+m-o-kre-n	undoubtedly
+m-o-q	unquestionably
+
+M	Mr.
+
+Ms	Mrs.
+
+ma	construct,make,produce
+ma-e	manufacture
+ma-s	compose,-ition,consist
+ma-s-kon	consistent
+ma-v	constitute
+ma-x	destroy
+ma-x-a	ruin,wreck
+ma-x-e	damn
+
+mar	marry
+mar-o	divorce
+
+mat	concrete,material,matter,physical,stuff
+mat-o	abstract
+
+mau	mouth
+
+me	greater,increase,more
+me-a	exaggerate
+me-jun	junior,younger
+me-jun-o	elder,senior
+me-v	major,-ity
+me-x	decrease,less,reduce
+me-x-i	minor,-ity
+me-x-n	nevertheless,notwithstanding,still,yet
+
+mek	machine,mechanical
+mek-av	aircraft
+mek-e	machinery
+mek-i	motor
+mek-l	engine
+mek-pes	scale,-s
+mek-r	mechanic
+mek-ri	typewriter
+mek-son	gramophone
+mek-tir	tractor
+
+mel	sweet,-ness
+mel-bru	chocolate
+mel-flo	honey
+mel-g	sugar
+mel-g-u	candy,sweets
+mel-o	bitter
+mel-o-a	sour
+mel-o-g	acid
+
+mem	memory,recollect,recall,remember
+mem-du-m	monument
+mem-o	forget
+mem-y	remind
+
+men	mental,mind,intellect
+men-a	folly,foolish,silly
+men-aer	crank
+men-a-r	fool
+men-a-t	stupid
+men-e	wise
+men-e-e	genius
+men-e-x	crazy,mad
+men-i	spirit
+men-sha	cute
+men-u	intelligent,sabe,sensible
+men-u-e	intellectual
+men-u-x	insane
+
+mer	mother
+mer-e	grandmother
+mer-i	aunt
+mer-za	mama,mummy
+
+mes	measure
+mes-e	dimension
+mes-t	moderate
+mes-tru	diameter
+mes-u	fit
+
+met	metal
+met-af-m	hardware
+met-e	steel
+met-gel	brass
+met-l	iron
+met-son	bell
+met-u	gold
+met-wy	silver
+
+mi	midday,noon
+mi-x	midnight
+
+mid	medial,middle
+mid-e	centre
+mid-i	medium
+
+mik	microbe
+
+mil	million
+
+min	mineral
+min-g	coal
+min-p	mine
+
+mir	wonder,wonderful
+mir-e	marvellous
+
+miu	minute(time)
+miu-t	second(time)
+
+mol	soft
+mol-o	hard
+mol-u	tender
+
+mot	word
+mot-e	speedword
+mot-fa	verb
+mot-i	sentence
+mot-i-t	phrase
+
+mr	metre
+
+m(u)s	must,have to
+
+mu	great(abs.),much,many
+mu-a	too(much
+mu-e	considerable
+mu-e-e	tremendous
+mu-x	little(quantity)
+
+muz	music
+muz-e	band,orchestra
+muz-sek	melody,tune
+
+my	most
+my-ho	supreme
+my-ib	maximum
+my-jun	youngest
+my-jun-o	eldest,oldest
+my-x	least
+my-x-b	minimum
+my-x-i	at least
+
+n	no,not
+n-i	neither,nor
+n-ik	neutral
+n-x	(not if)perhaps
+
+na	nature,of course
+na-a	fierce,wild
+na-g	wild
+na-k	natural,naturally
+na-l	essence,-tial
+na-x	magic
+
+nam	call,name
+nam-e	title
+nam-i	nominate
+
+nar	account,narrate,story,tale
+nar-i	describe,represent
+nar-i-u	romance
+nar-l	history
+nar-pas	tradition
+
+nat	native
+nat-o	foreign,strange
+nat-o-p	abroad
+nat-r	native
+
+nav	ship
+nav-aq-e	steamship
+nav-c	shipping
+nav-i	navy
+nav-p	quay
+nav-pes-e-x	canoe
+nav-t	boat
+
+ne	take
+ne-a	steal,theft
+ne-e	take over
+ne-e-a	appropriate(take)
+ne-vam	disarm
+
+ner	nerve
+
+nes	necessary,necessity,need,require,want
+nes-e	essential
+nes-i	sake
+nes-n	needless,unnecessary
+
+n(o)m	nothing
+
+no	look (at),note,notice,observe
+no-e	watch
+no-e-t	glance
+no-f{-m}	notify,-ication
+no-if{-r}	scout
+no-l	examine,interest
+no-m	note,notice
+no-n	overlook,oversight
+no-ov	overlook
+no-u	regard,-s
+no-x	disregard,ignore
+
+nob	celebrated,honour,note,repute
+nob-e	fame,glory
+nob-ek	glorious
+nob-i	dignity,stately
+nob-o-a	disgrace
+nob-r	lord
+nob-u{-r}	noble
+
+nor	north
+nor-o	south
+
+nov	new
+nov-e{-m}	novel,-ty
+nov-i	lately,modern,recent
+nov-o	old
+nov-o-e	ancient
+nov-u	fresh
+nov-u-x-a	rotten
+
+nr[n er]	nobody,no-oe
+
+nu	now,present
+nu-de	now-a-days
+nu-k	current
+nu-v	now(conj.)
+nu-x	then
+
+num	count,number,several
+num-i	figure
+
+nur	food
+nur-g	bread
+nur-gu	cake
+nur-l	pudding
+
+ny	about,almost,near,nearly,nigh
+ny-e	against,close,just,next
+ny-e-x	remote
+ny-p	neighbourhood,vicinity
+ny-r	neighbour
+ny-v	approximate
+ny-x	distant,far
+ny-x-e	farther,further
+ny-x-i	beyond,ultra,past
+
+nyn	nine,9
+
+o	on
+o-c-u	thereonve	upon
+o-ep	impose
+o-ite-g	aboard(train)
+o-nav	aboard(ship)
+o-x	off
+
+O	sir
+
+ob	acquire,get,obtain,procure,secure
+ob-i	attain
+ob-o	lose
+ob-u	gain,profit
+ob-ua{-r}	profiteer
+ob-ur	recover
+
+od	manner,method,mode,way
+od-e	policy
+od-erk	behave,manners
+od-i	medium,per
+od-l	style
+od-m	means
+od-nu	up-to-date
+od-u	fashion,mode
+od-ul	anyhow,anyway,somehow
+
+odo	odour,smell
+odo-m	nose
+
+of	offer
+of-i	suggets
+of-i-t	hint
+of-lut	challenge
+of-o	withhold
+of-s	accept
+of-s-o	reject
+
+og	eye
+
+oil	oil
+oil-e	petrol
+
+ok	accurate,correct,right
+ok-a	particular
+ok-e	exact,just,precise,strict
+ok-i	fitting,proper
+ok-n	error,incorrect,mistake
+ok-o	wrong
+ok-o-a	false
+ok-u	true,-th,-ly
+ok-u-x	falsehood,lie
+
+ol	receptacle,vessel
+ol-aq-a	sink
+ol-dip-o	pan
+ol-e	tank
+ol-fi	sack
+ol-fir	case
+ol-fir-n	basket
+ol-g	box
+ol-gar	jar
+ol-g-e	chest
+ol-g-orn	cabinet
+ol-i	bag
+ol-i-gas	balloon
+ol-ite	suitcase
+ol-ite-e	trunk
+ol-kok-e	oven
+ol-kok-e-e	furnace
+ol-kur	barrel
+ol-li	bottle
+ol-li-pla	flask
+ol-li-s	cork
+ol-pot	pot
+ol-ron	basin
+ol-ron-e	tub
+ol-t	can
+ol-ves	pocket
+
+om	article,object,thing
+
+on	man
+on-a	fellow
+on-c	community
+on-g	mankind
+on-g-o	private
+on-gu	popular
+on-i	male
+on-jun	youth
+on-k	human
+on-k-u	humae
+on-mar	husband
+on-t	boy,lad
+o(n-u)	gentleman,Sir
+
+op	against,contrary,oppose
+op-i	(al)though
+op-l	mind,object
+op-mek-av	anti-aircraft
+op-o	aid,assist,help
+op-o-k	helpful
+op-o-m	accessory
+op-o-u	favour
+op-t	interfere
+
+or	or
+or-e	either
+or-i	else,otherwise
+or-i-p	elsewhere
+or-r	"he or she"
+
+ord	arrange,order
+ord-e	order(institution)
+ord-i	regular
+ord-i-e	routine
+ord-i-f	regulate
+ord-i-g	rule
+ord-i-x	irregular
+ord-l	file
+ord-lin	grammar
+ord-o	disorder
+ord-t	neat
+ord-u	adjust
+ord-u-v	trim
+ord-y	organise
+ord-y-l	organisation
+
+org	organ
+org-ky-s	stomach
+org-men	brain
+org-spi	lung
+
+orn	decorate,ornament
+orn-ar	dandy
+orn-n	plain
+orn-t	embroider
+
+os	bone
+os-mau	jaw
+os-u	ivory
+
+ost	easst
+ost-o	west
+
+ot	other
+ot-i	alter,change
+ot-i-dos	alternate
+ot-i-kon	adapt
+ot-i-n	constant
+ot-i-t	modify
+ot-i-u	amend,reform
+ot-i-v	exchange
+ot-i-v-l	mutual
+
+otto	eight,8
+
+ov	above,over
+ov-e	upstairs
+ov-e-x	downstairs
+ov-o	below,beneath,under
+ov-u	superior
+ov-u-x	inferior
+
+oz	happen,occasion,occur,time
+oz-a	accident
+oz-a-e	disaster
+oz-b	maybe,perhaps
+oz-bi-x	funeral
+oz-ce	reception
+oz-e	frequent,often
+oz-i	case,instance
+oz-ky	meal
+oz-l	event
+oz-l-t	icident
+oz-l-u	function
+oz-mar	wedding
+oz-po-f	defer,postpone
+oz-por	ceremony
+oz-sek	eventually
+oz-sud	emergency
+oz-t	seldom
+oz-u	opportunity
+oz-vot	election
+oz-y	hold
+
+p	able,can
+p-i	may
+p-n	cannot,unable
+p-y	enable
+
+pa	pay
+pa-a	fine
+pa-b	payable
+pa-be	prepay
+pa-f	charge
+pa-f-sup	overcharge
+pa-f-u	fee
+pa-gra	gratuity,tip
+pa-l	cheque,draft
+pa-m	cash,money
+pa-m-c	funds
+pa-m-i	finance,-ial
+pa-m-ka	principal
+pa-m-ko	income
+pa-m-ko-e	revenue
+pa-n	unpaid
+pa-nat-o	customs
+pa-ra	salary,wages
+pa-sup	premium
+pa-sut{-r}	patron,-age
+pa-u	commission
+pa-ur	repay
+pa-us	interest
+pa-x	free,gratis
+
+pad	pad
+pad-ka	pillow
+pad-sta-x	mattress
+pad-u	cushion
+
+pap	paper
+pap-e	card
+pap-e-e	cardboard
+pap-e-ku	carton
+pap-e-pos	post-card
+pap-kut	coupon
+pap-nam	label
+pap-ri	stationery
+pap-t	ticket
+pap-tir-i	blotting-paper
+
+par	part,instalment,portion
+par-eng	waist
+
+pas	ago,past
+pas-o	future
+
+pat	paste
+pat-i	pastry
+pat-i-dos	biscuit
+pat-i-g	pie
+pat-jut-i	tooth-paste
+
+pe	period,while(noun)
+pe-a	winter
+pe-e	age
+pe-g	season
+pe-gen	generation
+pe-h(e)	summer
+pe-in	interim,meantime,meanwhile,pending
+pe-jun	youth
+pe-lim	term
+pe-ry-u	schooling
+pe-u	spring
+pe-u-x	automn,fall
+pe-v	during,while
+
+ped	foot
+ped-i	shoe
+ped-i-e	boot
+ped-i-r	cobbler
+ped-i-t	slipper
+
+pel	clear,plain
+pel-g	glass
+pel-g-u	window
+pel-tru	transparent
+pel-y	explain
+
+pen	hang
+pen-ed	tag
+pen-i	depend
+pen-i-u	rely,-iance
+pen-i-x	independent
+pen-vib	swing
+pen-y	suspend
+
+per	father
+per-e	grandfather
+per-l	uncle
+per-za	dad(dy),papa
+
+pes	weight
+pes-e	heavy
+pes-e-x	light
+pes-e-x-y	alleviate
+pes-i	emphasis
+pes-up-o	depress
+
+pin	point
+pin-g	pin
+
+pi(r)	soul,spirit
+pi(r)-v	ghost
+
+pit	mercy,pity
+pit-l	pathetic
+pit-o	cruel
+
+pl(e)	please,-ure
+pl(e)-e	delicious
+pl(e)-k	amenity,pleasant
+pl(e)-o	pain
+pl(e)-o-ka	headache
+pl(e)-o-vib	ache
+pl(e)-y{-a}	gratify,indulge
+
+pla	flat,horizontal,level
+pla-ber	tray
+pla-g	ground
+pla-l	floor
+pla-m-t	tblet
+pla-p	plain
+pla-x	upright,vertical
+pla-x-y	erect
+
+pli	fold
+
+po	after,-wards
+po-c	hereafter
+po-c-u	thereafter
+po-mi	afternoon
+
+poe	poen
+poe-s	prose
+
+pol	polite
+pol-a	affectation
+pol-e	refined
+pol-o	rude
+pol-o-a	gross
+pol-o-e	insult
+pol-t	civil
+
+por	important,matter
+por-a	grave
+
+pos	post
+pos-i	stamp
+
+pot	earthenware,pot
+
+pov	poor,poverty
+pov-o	rich
+pov-o-e	fortune,wealth
+
+pre	prepare
+pre-d	prepared,ready
+
+pri	cost,price
+pri-a	dear,expensive
+pri-do	rent
+pri-ite	fare
+pri-l	premium
+pri-pos	postage
+pri-s	cost
+pri-u	cheap
+pri-u-v	bargain
+pri-v	quote,-ation
+
+pro	promise
+pro-a	threaten
+pro-e	oath,pledge
+
+pru	prove
+pru-ok	verify
+
+pu	guess (U.S.A.),think,thought
+pu-e	wonder
+pu-v	consider
+pu-v-e	deliberate
+pu-v-no	contemplate
+
+pul	powder
+pul-a	dust
+pul-ble	flour
+pul-g	sand
+pul-sto	cement
+
+pur	clean
+pur-fi	sweep
+pur-i	wash
+pur-i-e{-m}	bath,-e
+pur-i-m	soap
+pur-im-olm	sponge
+pur-i-p	lavatory
+pur-o	dirty,soil
+pur-o-c	garbage
+pur-u	pure
+
+q	do(questioning),question,query
+
+qa	how
+qa-e	however
+
+qar	four,4
+
+q(i)d	what
+q(i)d-e	whatever,whatsoever
+
+qe	when
+qe-e	whenever
+
+qi	who,-m
+qi-e	whoever
+qi-v	whose
+
+qo	where
+qo-a	whither
+qo-d	whence
+qo-e	wherever
+qo-v	whereabouts
+
+qu	that(rel.),which
+
+qy	why
+
+r	shall,will
+
+ra	labour,work
+ra-e	industry
+ra-f	employ
+ra-l	operate
+ra-lot	task
+ra-t	job
+ra-v	occupation
+ra-vu	calling,vocation
+ra-x	rest
+ra-x-a	idle,lazy
+ra-x-u	holiday,leisure,vacation
+
+rad	root
+rad-i	radical
+
+rag	anger,rage,temper
+rag-e	fury
+rag-i	indignation
+rag-u	tease
+
+rap	fast,quick,rapid,speed
+rap-a	rush
+rap-e	express
+rap-i	expedite,haste,hurry
+rap-o	slow
+rap-u	prompt
+
+re	again,repeat
+re-du	resume
+re-ef	drill,exercise,practice
+re-id-y	representation
+re-nol	review,revise
+re-nov	renew
+re-nov-u{-m}	refreshment
+re-vot	quote,-ation
+
+reg	control,direct,govern,handle,rule
+reg-dem	parliament
+reg-e	government
+reg-e-r	minister
+reg-e-r-c	cabinet
+reg-ek-r	bishop
+reg-i	conduct
+reg-l	economic,-s
+reg-nob	senate
+reg-ov	superintend,supervise
+reg-ri	edit
+reg-ri-l	editorial
+reg-ry-g-r	housekeeper
+reg-s	submit,yield
+reg-t	manage
+reg-u	democracy
+
+rek	direct,straight
+rek-n	indirect
+rek-y-m	ruler
+
+rel	religion
+rel-am	Christianity
+
+ren	meet,-ing
+ren-e	assembly,meeting
+ren-e-e	congress
+
+rep	reptile
+
+rev	revolve,rotate
+rev-e	revolution
+rev-i	roll
+rev-u	dance
+
+rex	king,monarch
+rex-i	royal
+rex-s	queen
+rex-t	prince
+
+ri	write
+ri-a	scribble
+ri-are	map
+ri-bod	text
+ri-ce	receipt
+ri-cer	endorce
+ri-di-e	affidavit
+ri-e	shorthand
+ri-el	telegram
+ri-e-r	stenographer
+ri-g	pen
+ri-in	correspondence
+ri-l	secretary
+ri-lek	essay
+ri-mek	type,-write
+ri-mem	memorandum
+ri-nam	signature
+ri-pa	subscribe
+ri-po	postscript
+ri-r	writer
+ri-s	read
+ri-st	clerk
+ri-u	literary
+ri-u-c	literature
+ri-v	print
+ri-ze{-m}	dispatch
+
+rit	rhythm
+rit-e	swing
+rit-l	jazz
+
+ro	list,schedule
+ro-a-x	questionnaire
+ro-de	calendar
+ro-e	catalogue,inventory
+ro-f	enrol
+ro-l	record,register
+ro-l-bil	book-keeping,accounts
+ro-leqrecord(best)
+ro-num	score
+ro-pri	tariff
+ro-te	time-table
+ro-v	invoice
+ro-we	programme
+
+ron	(a)round,rotund
+ron-g	ball
+ron-g-e	globe
+ron-l	egg
+
+ru	remain,rest,stay,stop
+ru-e	abide
+ru-f	leave
+ru-f-ga{-p}	desert
+
+rub	friction,rub
+rub-a	scratch
+rub-e	grind
+rub-eis{-m}	skate
+rub-gla	slide
+rub-kut	shave
+rub-t	slip
+rub-u	stroke
+
+rud	red
+rud-e	scarlet
+rud-t	pink
+
+ruk	crease,ruck,-le,wrinkle
+ruk-o	furrow,groove
+ruk-o-e	valley
+ruk-o-flu	channel
+ruk-o-ter	ditch
+
+rup	break
+rup-e	burst
+rup-e-e	explode
+rup-i	fraction
+rup-in	interrupt
+rup-pa	bankrupt
+rup-ste-m	bomb
+rup-sud	snap
+rup-t	crack,split
+rup-tir	rip
+
+ry	building,establishment
+ry-ac-o	shop,stores
+ry-ame	temple
+ry-at	hut,shed
+ry-aut	court
+ry-bib	inn
+ry-bib-u	dairy
+ry-ble	barn
+ry-bu	library
+ry-du	institute
+ry-ef-ki	gymnasium
+ry-f	build
+ry-fot-e	cinema
+ry-g	house
+ry-gar	warehouse
+ry-ge-g	club
+ry-g-pla	flat
+ry-g-rel	university
+ry-g-rel-st	professor
+ry-g-t	cottage
+ry-ho	tower
+ry-l	bank
+ry-lau	palace
+ry-lib-o	gaol,jail,prison
+ry-ma	factory
+ry-pap-t	booking-office
+ry-pos	post-office
+ry-pur-i	laundry
+ry-ra	works
+ry-rub-e	mill
+ry-ru-e	abode
+ry-san	hospital
+ry-sho	museum
+ry-stu	academy
+ry-r	bureau,office
+ry-tes	laboratory
+ry-u	school
+ry-u-e	college
+ry-u-jun	kindergarten
+ry-var	barrack,-s
+ry-vik-reg-e	embassy
+ry-vik-reg-e-t	legation
+
+s	he,him
+s-i	his
+
+sa	know,-ledge
+sa-d-e	well-known
+sa-d-o	unknown
+sa-d-y	acquaint,introduce
+sa-e	familiar
+sa-i	intuition
+sa-v	apprehend,comprehend,understand
+sa-a	misunderstand
+sa-x	ignorance
+
+saf	safe,secure
+saf-o	dangerous,peril
+saf-o-t	compromise
+saf-u	rescue,save
+saf-u-v	salvage
+saf-y	assure,insure
+
+sak	holy,sacred
+
+sal	jump,leap,spring
+sal-i	elastic
+sal-i-l	spring(metal)
+sal-o	plunge
+sal-t	hop
+
+san	health
+san-i	wholesome
+san-k	sanitary
+san-o	ill,sicl
+san-o-t	affection
+san-st	doctor,physician
+san-st-l	surgeon
+san-st-s	patient
+san-u	fit,sound
+
+sau	condiment,sauce
+sau-gel	mustard
+
+se	week
+se-dos	fortnight
+
+sed	sit
+sed-e	session
+sed-reg	preside
+sed-reg-r	chairman,president
+sed-l	chair
+sed-m	seat
+sed-s	lap
+sed-y	set
+
+sek	course,follow,sequence
+sek-a	chase,pursue
+sek-e	course,serial,series
+sek-fa	campaign
+sek-i{-e}	process,-ion
+sek-ind	trace
+sek-ind-e	track,trail
+sek-k	subsequent
+sek-l	course(race, etc.)
+sek-o	precede
+sek-o-l	precedent
+sek-s	lead
+
+sem	seed
+
+sen	feel,sense,-ibility
+sen-a	disgust
+sen-e	sensation
+sen-i	mood
+sen-id	sympathy
+sen-jus	conscience
+sen-k	aware,conscious,sensible
+sen-o	unconscious
+sen-o-t	faint
+sen-u	confort,ease
+sen-u-e	luxury
+sen-u-f	console
+sen-u-n	uncomfortable,uneasy
+
+sep	seven,7
+
+ser	look(for),search(for),seek
+ser-a	hunt
+ser-e	research
+ser-i	search
+ser-o	avoid
+ser-o-b-n	inevitable
+ser-sa	investigate
+ser-u	court
+
+sev	divide
+sev-i	department
+sev-i-pla	storey
+sev-o	multiply
+sev-s	dividend
+sev-ut	analyse
+
+sh	her,she
+sh-i	her(s)
+
+sha	sharp
+sha-v	keen
+
+sho	demonstrate,exhibit,show
+sho-a	expose
+sho-e	parade,display
+sho-fa	stunt
+sho-fo	present
+sho-l	express,-ion
+
+shu	shoot
+shu-g	artillery
+shu-m	gun
+
+sig	mean,-ing,sense,signify,-icance
+sig-l	code
+sig-o	nonsense
+sig-y	imply
+sig-y-s	deduce,infer
+
+sil	silk
+sil-i	velvet
+sil-ruk	crepe
+sil-u	satin
+
+sip	simple
+sip-o	complex
+
+sis	sister
+sis-i	cousin
+
+sit	position,situation
+
+sit-erk	attitude
+sit-l	appoint,-ment
+sit-u	rank
+
+sla	blow,hit,strike
+sla-e	beat,thrash
+sla-ped	kick
+sla-pla-m	bat
+sla-sha	punch
+sla-t	knock
+
+so	so,such
+so-nam	so-called
+so-v	so,thus
+
+sok	social,society
+sok-y	civilise
+
+sol	alone,only,single,sole
+sol-a	desolate,lonely
+sol-e	isolation,solitary
+sol-i	solo
+sol-t	mere,-ly
+
+son	sound
+son-a	noise
+son-a-e	row
+son-e	loud
+son-i	letter,spell
+son-i-c	alphabet
+son-i-num	algebra
+son-i-ri-v	type(print)
+son-kos-o	thunder
+son-l	tone
+son-met	ring
+son-o	silence
+son-sud	crack
+son-ven	whistle
+
+spa	space,volume
+
+spe	speak,speech,talk
+spe-e-a	rave
+spe-g	conversation
+spe-m	tongue
+spe-od	pronounce
+spe-ren	greet
+spe-sak-a	swear
+spe-t	whisper
+spe-v	address
+spe-x	dumb
+spe-za	chat
+
+spi	breath,-e
+
+
+sq	square
+
+sta	stand
+sta-f	establish,set up
+sta-f-du	institution
+sta-k	standard
+sta-p	station
+sta-x	lay,lie
+
+ste	compass,extend,range,scope
+ste-e	expand,swell
+ste-e-gas-m	carburettor
+ste-g	spread
+ste-v	stretch
+ste-x	contract,shrink
+
+sti	condition,stipulation
+sti-s	subject
+
+sto	stone
+sto-art	marble
+sto-bri-e	diamond
+sto-e	rock
+sto-id-y	statue
+sto-orn	jade
+sto-pul	concrete
+sto-u	jewel
+sto-u-e	gem
+
+stu	learn,study
+stu-e	education
+stu-l	train
+stu-l-reg	discipline
+stu-m	lesson
+stu-r	scholar,student
+stu-s	instruct,teach
+stu-su{-r}	coach
+stu-u	learn(by heart)
+
+su	better,improve
+su-e	best
+su-g	medicine
+su-g-a	drug
+su-v	advantage
+su-v-o	disadvantage
+su-x	worse
+su-x-e	worst
+
+sub	substance
+
+sud	sudden
+sud-o	deliberate
+
+suk	succeed,success
+suk-du	prosper
+suk-i	beat,overcome,victory,win
+suk-i-e	conquer
+suk-i-u	triumph
+suk-o	fail,reverse
+suk-o-v	defeat
+
+sup	exceed,excess,surplus
+sup-ac	lumber
+sup-o	short,-age
+sup-o-a	defect
+sup-u	excel,-lent,great,transcend
+
+sur	surface
+sur-a	superficial
+sur-up	platform
+
+sut	maintain,support,sustain
+sut-a	suffer
+sut-a-b-n	insupportable,intolerable,unbearable
+sut-i	bear,endure,undergo
+sut-i-u	patient,-ce
+sut-i-u-n	impatient
+sut-kru	bridge
+sut-li	float(liquid)
+sut-ly-m	column
+sut-s	lean
+sut-t	tolerate
+
+sy	science
+sy-ag	agriculture
+sy-av	aviation
+sy-dem	politics
+sy-kem	chemistry
+sy-mek	mechanics
+sy-men	psychology
+sy-mes	geometry
+sy-num	arithmetic
+sy-pa-m-i	finance
+sy-sa	philosophy
+sy-ter	geography
+sy-to	mathematics
+
+t	it
+t-i	its
+
+ta	late
+ta-de	dusk
+ta-v	delay
+ta-x	early
+ta-x-de	dawn
+
+tab	table
+tab-af	counter
+tab-ri	desk
+tab-t	tablet
+
+tat	condition,state
+tat-alk	drunk
+tat-e	morale
+tat-i	circumstance
+tat-l	tone
+
+te	time(point of)
+te-m	clock
+te-m-t	watch
+te-t	moment
+
+teg	cover
+teg-ca	ceiling
+teg-e	shell
+teg-i	skin
+teg-i-e	leather
+teg-i-son	drum
+teg-le	envelope
+teg-m	cover,lid
+teg-mo	bare
+teg-o	discover
+teg-ov-o	lining
+teg-pad	quilt
+teg-pli	wrap
+teg-ry	roof
+teg-t	patch
+teg-u	tile
+teg-wo	blanket
+
+ten	grasp,hold
+ten-a	seize
+ten-dos	braces
+ten-e	grip
+ten-jur	apprehend,arrest
+ten-l	catch
+ten-m	handle
+ten-o	resign
+ten-o-ga	abandon
+ten-u	embrace
+ten-u-e	hug
+
+ter	earth,land
+ter-g	earth,soil
+ter-ky	pasture
+ter-l	country,land,state
+ter-l-e	continent
+ter-l-rex	kingdom
+ter-o	sea
+ter-o-e	ocean
+ter-o-r	seaman,sailor
+ter-sol	isle,-and
+ter-t	territory
+ter-vu	landscape
+
+tes	experiment,test
+tes-jur	trial
+tes-k	tenttive
+tes-ok	check
+tes-rol-bil	audit
+tes-s	experience
+
+tin	colour
+tin-y	paint
+
+tir	draw,pull
+tir-a	tear
+tir-ba	retire,withdraw
+tir-e	haul
+tir-e-a	drag
+tir-i	absorb,suck
+tir-i-x	abstract
+tir-i-urg	pump
+tir-l	draught
+tir-o	push
+tir-o-i	dig
+tir-o-v	press
+tir-ov-a	crush,oppress
+tir-ov-e	stamp
+tir-ov-i	impress
+tir-ov-i-s	seal
+tir-pen	trail
+tir-u	appeal,attract
+
+to	amount,qnautity
+to-deb	debit
+to-e	ample,deal,lot,plenty
+to-e-e	mass
+to-g	average,human
+to-t	spot,trifle
+to-t-a	blot
+to-u	adequate,enough,sufficient
+to-v	proportion,rate
+to-v-i	ration
+
+top	top
+top-o	base,bottom
+top-o-e	basis,foundation
+top-o-ek	fundamental
+top-o-ry	basement
+top-t	tip
+
+tra	transfer,transport
+tra-l	translate,interpret
+tra-v	convey
+tra-ze	transmit
+
+tri	three,3
+
+tru	through
+tru-a	puncture
+tru-e	thorough
+tru-f	bore
+tru-g	throughout
+tru-p	passage
+tru-s	plug
+tru-sel	sparking plug
+
+try	attempt,endeavour,try
+try-a	strain
+try-e	strenuous
+try-v	effort
+
+tu	touch
+tu-c	bunch,bundle
+tu-e	contact
+tu-em	tickle
+tu-l	kiss
+tu-n	miss
+tu-pin	prick
+
+tub	pipe,tube
+tub-e	main
+tub-fir-o	hose
+tub-o	pipe(smoker's)
+
+tuf	tough
+tuf-o{-u}	delicate
+
+tur	turn
+tur-a	upset
+tur-bor-i	hem
+tur-e	wind
+tur-fi-v	bow(knot)
+tur-fix-m	nut
+tur-lat-i	divert
+
+ty	ten,10
+
+u	a,an,one
+u-v	first
+u-v-e	prime
+u-v-i	at first
+u-v-o	last,latter
+u-v-o-e	ultimate
+u-v-o-v	at last
+
+ub	favour,-able,well
+ub-e	fine,smart
+ub-l	decent
+ub-t	fair
+
+ud	many,numerous
+
+ue	being
+
+ui	musical instrument
+ui-bos	wood-wind
+ui-fi	reed
+ui-g	piano-forte
+ui-l	stringed instrument
+ui-l-g	violin
+ui-v	wind instrument
+ui-v-u	organ
+
+uk	deal,transact,undertake
+uk-aut	administer
+uk-e	enterprise
+uk-ga	execute
+uk-haz	venture
+uk-i	perform
+uk-ot	negotiate
+uk-r	contractor
+uk-t	commission
+
+# ul looks like it analyses as u-l, but is treated as a radical.
+ul	any,some
+ul-r	anyone,-body,someone,-body
+ul-p	anywhere,somewhere
+ul-z	sometime,-s
+
+um[ul om]	anything,something
+
+un	negative
+un-o	positive
+
+uo[u ot]	another
+
+up	up
+up-k	upper
+up-o	down
+
+ur	return,revert
+ur-don-o	revenge
+ur-i{-pu}	reflect
+ur-i-pel-g	looking-glass,mirror
+ur-y	restore
+ur-y-bi	revive
+
+urb	town,urban
+urb-aq	port
+urb-e	city
+urb-k	civic
+urb-ka	capital
+urb-ka-r	mayor
+urb-o	country,rural
+urb-o-r	peasant
+urb-r	citizen
+urb-t	village
+
+urg	drive,urge
+urg-e	sweep
+urg-i	impel,-ulse
+urg-l	urgent
+urg-spi	cough
+
+us	use,utilise
+us-a	abuse
+us-b	available
+us-e{-p}	resort
+us-i	occupy,employ
+us-i-v	engage
+us-n	spare
+us-pa	hire
+us-s	serve,useful
+
+ut	item,unit
+ut-av	wing
+ut-bi	heart
+ut-bod	limb,member
+ut-bu	page
+ut-dok	clause
+ut-e	subject,topic
+ut-fa	factor
+ut-i	matter
+ut-id-i	sample,specimen
+ut-l	feature,point
+ut-mas	constituent
+ut-men	faculty
+ut-muz	note
+ut-nar	chapter
+ut-poe	verse
+ut-r	individual
+ut-re	theme
+ut-ri	paragraph
+ut-ry	brick
+ut-sek-l	lap
+ut-shu-g	battery
+ut-t	detail
+ut-va	battle
+
+uz[u oz]	once
+
+v	you
+v-i	your,-s
+
+va	war
+va-m	arm,-s
+va-m-du-x	armistice
+va-m-e	munitions
+va-r	soldier
+va-r-c	army
+va-v	military
+va-v-o	civil
+va-x	peace
+
+vag	deviate,wander
+vag-a	astray
+vag-t	ramble
+
+val	value,worth
+val-e	precious,valuable
+val-n	unqorthy
+val-o-c	rubbish
+val-u	treasure
+
+van	disappear,vanish
+van-l	dissolve,solve,solution
+van-o	appear
+van-t	fade
+
+ve	car,vehicle
+ve-a	cart
+ve-ak	tank(war)
+ve-ber	carriage
+ve-e	coach
+ve-ig	bus
+ve-l	automodile,motor-car
+ve-l-pa	taxi
+ve-l-r	chauffeur
+ve-ped	bicycle
+ve-ped-e	motor-bicycle
+ve-pes	truck
+ve-pes-e	waggon
+
+veg	vegetable
+veg-l	potato
+
+ven	blow,wind
+ven-e-a	blizzard
+
+ver	green
+ver-g	grass
+ver-g-l	hay
+ver-g-u	lawn
+
+ves	(to)dress,garment
+ves-aut	uniform
+ves-c	suit
+ves-dor	pyjamas
+ves-fix-o	blouse
+ves-fo	apron
+ves-g	skirt
+ves-g-ov-o	petticoat
+ves-i	dress(fem.)
+ves-kol	scarf
+ves-l	costume
+ves-leg	trousers
+ves-lud-e	sweater
+ves-ov	cape
+ves-ov-o	underwear
+ves-ov-o-g	shirt
+ves-pen	gown
+ves-st	tailor
+ves-teg-i	vest
+ves-z	clothes
+
+via	road,route,way
+via-bi	career
+via-e	highway
+via-l	street
+via-met	railway,road
+via-t	path
+via-t-l	causeway,pavement
+via-tru	corridor
+via-u	avenue
+
+vib	oscillate,shake,vibrate
+vib-a	shock
+vib-e	rock
+vib-l	wave,-s
+vib-mau	chatter
+vib-o	steady
+
+vig	hard,strong,vigour
+vig-e-e	might
+vig-o	weak
+vig-o-a	exhaust
+vig-o-e	feeble
+vig-o-t	faint
+vig-o-v	fatigue,tired,weary
+
+vik	instead,substitute
+vik-r	agent
+vik-u{-r}	represent,-ative
+
+vis	force,power
+vis-i	energy
+vis-o	helpless
+
+viz	face
+viz-e	countenance
+
+vie[via-met]	rail,-way
+
+vo	will,-ing
+vo-e	determine
+vo-l	voluntary
+vo-n	unwillingness
+vo-s	shall
+vo-x	decline,refuse
+
+vok	cry,voice
+vok-e	shout,yell
+vok-e-a	howl
+vok-e-u	cheer
+vok-ge	chorus
+vok-i	call
+vok-i-e	hail
+vok-i-ur	recall
+vok-k	vocal
+
+vot	choose,pick,select
+vot-b	eligible
+vot-e	vote(for)
+vot-e-s	elect
+vot-i	prefer,rather
+vot-l	ballot
+vot-s-r	candidate
+vot-u	favourite
+
+vu	see,sight,vision
+vu-ax	interview
+vu-b	visible
+vu-e	behold
+vu-fo	prospect
+vu-g	survey
+vu-men	perceive
+vu-p	view
+vu-pru	witness
+vu-s	appear,aspect,look,seem
+vu-s{-p}	scene,view
+vu-sa	recognise
+vu-se	evident,obvious
+vu-sit	standpoint
+vu-s-k	apparent
+vu-t	glimpse
+vu-x	blind
+
+vy	advise,-ce
+vy-a	warn
+vy-c	council
+vy-e	counsel
+vy-l	prescribe
+vy-s	consult
+vy-st	counsel
+vy-u	(re)commend
+
+w	us,we
+wi	our,-s
+
+x	if,whether
+x-i	whether
+
+y	was,were
+
+we	aim,intend,object,mean,purpose
+we-e	propose
+we-l	scheme
+we-s-m	target
+we-u	system
+we-v-e	manoevre
+we-v{-m}	design,plan,project
+
+wo	wool
+
+wy	white
+wy-g	snow
+wy-in-e	grey
+wy-v	pale
+wy-x	black
+
+ye	yes
+ye-v	consent
+
+z	as,then
+z-i	because,inasmuch(as),through
+z-i-v	whereas
+
+za	dear,endearment,intimate
+za-e	darling
+
+ze	dispatch,send
+ze-d-r	envoy
+ze-d-r-e	ambassador
+ze-e	radio,wireless
+ze-b	broadcast,radiate
+ze-g-he-m	radiator
+ze-ind	consign,-ment
+ze-i-x	export
+ze-l	remit
+ze-nav	shipment
+ze-s	bring,fetch,reduce
+ze-s-i	import
+ze-vik{-r}	delegate
+ze-we	mission
+
+yp	could
+yp-i	might
+
+yr	should,would
+
+zev[ze-nav]	shipment
+
+z-i	because
+
+zo	animal
+zo-a	brute
+zo-e	beast,bull,ox
+zo-e-c	cattle
+zo-e-s	cow
+zo-e-t	calf
+zo-e-v	beef
+zo-f{-id}	dog
+zo-g	pig
+zo-g-i	pork
+zo-g-i-u	ham
+zo-gro-p	ranch
+zo-har	goat
+zo-ra	horse
+zo-ra-a	ass,donkey
+zo-wo	sheep
+zo-wo-v	mutton
+zo-v	rodent
+zo-v-g	mouse
+zo-v-rap	hare
+zo-v-rap-t	rabbit
+zo-za	cat
+zo-za-t	kitten
+
+# zu is listed in TYDS, but is not in either half of the Dictionary.
+zu	condition
+
+zy	disease
+zy-gro	cancer
+
