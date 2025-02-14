@@ -66,9 +66,21 @@ Now consider the random variable $C$ which records if the reconstruction was cor
 
 ### There are two kinds of shorthand systems
 
+This was for me the biggest lesson of this project, and I think is a legitimately useful way to assess shorthand systems: there are in practice two kinds of shorthand systems, those that attempt to minimize error (Gregg, Pitman, T-Line, and most other similar systems live here and in my figure they cluster alond the bottom red area) and those that attempt to minimize length at the expense of errors (Taylor, Yash, Speedwriting, and most typable shorthand systems live here and they all tend to cluster along the lefthand line).  
+
+This need not be the case: one could build a shorthand system that is bad at both, however the fact that these authors relentlessly optimized their systems means that they have been driven to the boundaries of what is mathematically allowed, and since the region that is mathematically allowed is defined by two lines, the shorthand systems themselves follow suit.
+
+I think many people feel this one.  What it means to write in Keyscript versus Gregg is wildly different even if you ignore the fact that one is written and the other typed.  Keyscript feels highly ambiguous (because it is), but at the same time feels usable since it is so efficient (indeed only one of two systems where my analysis places it as mathematically impossible to have no errors it is so brief).
+
 ### Brief forms are almost inevitable
 
-From this point 
+From this analysis, brief forms are an essentially unavoidable tool to use when trying to optimize these two things.  The reason for this is simple: for any system you have that is not the perfect system (so either has non-zero error, or has greater than the minimum possible outline complexity) you can always improve at least one of those metrics without making the other worse by introducing one or two more brief forms (the two is required if one wants to formally prove this, as sometimes you'll need to swap how two words are represented).  
+
+Part of this is obvious to everyone in the shorthand community: of course brief forms let you make outlines shorter, that's what it is there for!  Indeed, that is true, but what at least I never realized is that breif forms can also be a tool of disambiguation.  For instance, in Taylor the fact that "to" is briefed to just "t" and "toe" is not allows for the system to actually become less ambiguous through the addition of briefs.  Sadly, not all briefs are of this type, so Taylor briefs actually increase the error rate by about 4% in total.
+
+These feature, that literally *any* shorthand system can be made better by at least one, if not both, of these metric simultaneously by the addition of brief forms is part of why I believe they are unavoidable in shorthand systems.  Once your abbreviation principles have taken advantage of as much of the regularity of the language as possible, you can always add on briefs to make it better.
+
+It is entertaining, and illustrative to take this to the extreme.  Take all the words in the English language, and line them up in *decreasing* frequency.  Then, similarly establish some way of representing your shorthand characters, and order all possible shorthand oulines in *increasing* order of complexity.  Now, match these up in order, that is simply assign the simplest outlines to the most common words.  This can be shown to be the optimal solution, and lives in that perfect "zero error, minimal length" corner.  All you need to do is memorize a few hundred thousand brief forms...
 
 ## Limitations
 
@@ -128,7 +140,7 @@ While this is not strictly true, it is actually often very close to true for any
 
 Given this, I have decided to leave this problem as-is.  There are two ways to fix this if you want to be completely above-board:
 
-1. **Add an explicit space character that you need to write after every word.** If your definition of "word" includes the space, then it is clearly uniquely decodable.  There is no issue, and the theory progresses normally.  This option is available in the code by sending, for instance, `delim="~"` to the `compute_statistics` function.  The effect is to shift everything off to the right.
+1. **Add an explicit space character that you need to write after every word.** If your definition of "word" includes the space, then it is clearly uniquely decodable.  There is no issue, and the theory progresses normally.  This option is available in the code by sending, for instance, `delim="~"` to the `compute_statistics` function.  The effect is to shift everything off to the right.  This also can help deal naturally with positional information, which is currently over-emphasized compared to non-positional systems by encoding such systems with multiple types of space symbols.  However, this ignores the fact that many systems are essentially uniquely decodable already, even without the delimiter.
 
 2. **Devise a notion of information theory where it is assumed delimeters are free.** This is not as crazy as is sounds!  I'll leave a link here to some handwritten notes (in Taylor shorthand) explaining this theory.  It turns out that there is a corresponding notion of entropy where, given a set of probabilities, $p_i$, you sort them in decreasing order and compute
 
