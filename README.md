@@ -96,9 +96,36 @@ This immediately means there are many parts that this theory cannot touch.
 
 5. **Phrasing.** This is not a fundamental limitation, but it is a limitation of the current implementation, but phrasing is not considered in this analysis.  This relates to the *Mathematical Caveats* section below, but this analysis ignores the cost of putting spaces between words.  This is not fully accurate for a number of reasons, but it means that running an analysis of phrasing is not impactful at this time, and would only serve to make this even more complex.
 
+6. **Positional Informaiton.** Similar to phrasing, since the space between words isn't counted in this implementation, positional information isn't properly accounted for as it is essentially different types of spaces.  I've included it for systems where it is important like Pitman, but this is overly penalized in terms of outline complexity. 
+
 ## Comments on each system
 
 At this point I want to leave a few comments on each system, particularly around how reliable I consider the data used to place it on the chart.
+
+### Spelling
+
+> [!Tip]
+> This data is the baseline for all other comparisons, the frequency data is imperfect containing many non-sense words, but it is obtained from the [Google N-Grams Dataset](https://github.com/orgtre/google-books-ngram-frequency/blob/main/ngrams/1grams_english.csv).
+
+Spelling is, of course, not a shorthand system.  It is, however, the basis of everything that we do here as it is the lowest error rate representation of words that exist.  Words like "read" in the sense of "I will read that book," versus "read" as in "I read that book yesterday," will still be conflated, however the general consensus I could find (sadly without proper citation) is that it is less ambiguous than spoken English as it can disambiguate "read" form "reed" and "read" from "red" and "right" from "write".  
+
+Partially due to this feature, however, it is notoriously inefficient, writing words like "through" or "aitch" for words of three and two sounds respectively.
+
+### IPA Spelling
+
+> [!Tip]
+> This is provided by a fairly high-quality [dictionary of IPA spellings](ttps://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt).  It should be considered fairly high quality.
+
+IPA Phonetic spelling aims to accurately reflect the sounds of words.  In particular, it is rather attentive to representing the space of possible vowel sounds, far more than is done in normal spelling.  Mostly due to this feature, it is less efficient than normal spelling, and has some of the errors inherent in any phonetic system.  
+
+The most important thing to know about it on this chart is that it is essentially the lowest error that any phonetic system can achieve, as it aims to fully accurately capture the sound of the word.
+
+### Cut Spelng
+
+> [!Tip]
+> This is provided by a fairly high-quality [dictionary of IPA spellings](ttps://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt).  It should be considered fairly high quality.
+
+[Cut spelng](https://en.wikipedia.org/wiki/Cut_Spelling) is a fairly recent English spelling reform introduced in 1998.  It provides a small number of rules to remove some of the redundant letters in English and move it closer to a phonetic system.  A few examples are: "fotograf", "juj", 
 
 ### Jeake, Philosophical Transactions No. 487
 
