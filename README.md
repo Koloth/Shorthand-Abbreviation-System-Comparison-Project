@@ -114,7 +114,7 @@ Partially due to this feature, however, it is notoriously inefficient, writing w
 ### IPA Spelling
 
 > [!Tip]
-> This is provided by a fairly high-quality [dictionary of IPA spellings](ttps://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt).  It should be considered fairly high quality.
+> This is provided by a fairly high-quality [dictionary of IPA spellings](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt).  It should be considered fairly high quality.
 
 IPA Phonetic spelling aims to accurately reflect the sounds of words.  In particular, it is rather attentive to representing the space of possible vowel sounds, far more than is done in normal spelling.  Mostly due to this feature, it is less efficient than normal spelling, and has some of the errors inherent in any phonetic system.  
 
@@ -123,9 +123,46 @@ The most important thing to know about it on this chart is that it is essentiall
 ### Cut Spelng
 
 > [!Tip]
-> This is provided by a fairly high-quality [dictionary of IPA spellings](ttps://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt).  It should be considered fairly high quality.
+> This is provided [this dictionary](https://github.com/DanielTillett/CutSpel/blob/master/cutspel.csv).  It should be considered fairly high quality.
 
-[Cut spelng](https://en.wikipedia.org/wiki/Cut_Spelling) is a fairly recent English spelling reform introduced in 1998.  It provides a small number of rules to remove some of the redundant letters in English and move it closer to a phonetic system.  A few examples are: "fotograf", "juj", 
+[Cut spelng](https://en.wikipedia.org/wiki/Cut_Spelling) is a fairly recent English spelling reform introduced in 1992.  It provides a small number of rules to remove some of the redundant letters in English and move it closer to a phonetic system.  A few examples are: "fotograf" (photograph), "juj" (judge), "flyt" (flight). 
+
+While not a shorthand system itself, things like [One Stroke Script](https://drive.google.com/file/d/1HFL0gPj7iTz_ENWGs3EUcEXcU4bJxvDF/view?pli=1) use it to create mid-hand systems.
+
+It is fairly compelling as a potential basis of a shorthand system as it is significantly shorter than traditional spelling, while also introducing very few confusions not inherent already in English spelling and being closer to phonetic.
+
+### Pitman 2000
+
+> [!Error]
+> This should be treated with suspicion.  Due to the omission of an explicit space character, over penalizes Pitman's use of position.  Additionally, I don't know Pitman as a system, the dictionary is somewhat machine generated (although I am deeply indebted to the author for providing the underlying dictionary to make this analysis possible), and Pitman dictionaries always record the full representation of the word, which is never what stenographers use at speed.  Moreover, Pitman 2000 is considered by many to be inferior to the earlier Pitman New Era.
+
+I'm going to reiterate again here to make sure it is seen: these dots should not be trusted!  However, it shows an interesting enough picture that I wanted to include them.
+
+First off, note that the fully represented Pitman 2000 is no more ambiguous than IPA itself, but is vastly more brief!  Pitman created his system to be an efficient way to write spoken words exactly.  It certainly does exactly that, achieving its brevity through extensive attention to efficiently representing consonant clusters.
+
+Second, when fully diesmvoweled, the system becomes approximately as breif as Gregg Simplified (possibly even more brief than Gregg Anniversary if the positional information were properly accounted for) while still having lower error rate than other fully disemvoweled systems like Taylor.  This is almost entirely due to the way it handles consonant clusters which allows the reader to infer the position of vowels even when the vowels are not written.
+
+Third, a Pitman author learns through practice which vowel markers should be retained for clarity.  I cannot find any dictionary indicating what is practically done, but if I attempt to approximate an optimal vowel retention via a computer search, you end up with a system which is essentially no more ambiguous than fully written Pitman 2000, but is guarenteed to be essentially as brief as systems like Gregg Notehand.  Again, because positional information is not fully handled by this analysis, it is likely much briefer, perhaps even to the level of Gregg Simplified.
+
+I think this performance is astonishing (particularly when you account for the known shortcomings of this analysis), and well earns Pitman its position as amongst the best systems in history.
+
+### Characterie
+
+> [!Warning]
+> [This dictionary](https://characterie.neocities.org/table) was hand-created by the author over the period of several months.  I trust it well.  However, Characterie also has positional information (rotations of identical characters) that is again improperly represented here, so it should be briefer than this chart indicates.
+
+Characterie is the oldest English shorthand system in existance.  It is founded on a completely separate principle than any other system, where you first select a synonym, antonym, or a category the word belongs to from a list of approximately 500 words, and then writes a special symbol for that word along with the first letter or two of the original word.
+
+Based upon this, I assumed that it would be much briefer than it is, and also that it would have much higer error rates.  I was shocked to see it instead seems to have error rates on-par with highly optimized systems like Gregg Simplified!  Had I not created the dictionary laboriously myself checking each word by hand (which took me a few minutes), I would doubt the result, however I am absolutely certain these representaions are reasonable.
+
+I'm not going to sugar-coat it: Characterie is one of the worst systems on the chart, but I still find its performance surprising!  A great showing for a system created fully without any known precident.
+
+### Yublin
+
+> [!Tip]
+> This system is fully written english except for [600 one or two letter briefs]().  As such the measures are essentially error free.  
+
+Yublin is fascinating as it is basically the start of applying the mathematically perfect proceedure I described above (where you sort all the words by frequency, all the oulines by complexity and match them up), just stopping when you get past all possible two letter words.  As such, it has zero errors (the author never assigns the same brief twice), and does a lot to shorten text.  If you are a person who prefers memorizing facts, this could be a compelling component to add to your shorthand repertoire since it "just" memorizing 600 briefs with no other theory.
 
 ### Jeake, Philosophical Transactions No. 487
 
