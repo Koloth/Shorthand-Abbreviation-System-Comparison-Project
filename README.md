@@ -133,7 +133,7 @@ It is fairly compelling as a potential basis of a shorthand system as it is sign
 
 ### Pitman 2000
 
-> [!Error]
+> [!Caution]
 > This should be treated with suspicion.  Due to the omission of an explicit space character, over penalizes Pitman's use of position.  Additionally, I don't know Pitman as a system, the dictionary is somewhat machine generated (although I am deeply indebted to the author for providing the underlying dictionary to make this analysis possible), and Pitman dictionaries always record the full representation of the word, which is never what stenographers use at speed.  Moreover, Pitman 2000 is considered by many to be inferior to the earlier Pitman New Era.
 
 I'm going to reiterate again here to make sure it is seen: these dots should not be trusted!  However, it shows an interesting enough picture that I wanted to include them.
@@ -171,17 +171,46 @@ Yublin is fascinating as it is basically the start of applying the mathematicall
 
 This was not built as a shorthand, but it is an interesting system [described in this paper](https://digitalcommons.butler.edu/wordways/vol8/iss1/16/) it is a simple cypher of standard english spelling but with a twist where the same symbol is used for many letters.  
 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| E | T X Z | A C Q | I L B | O G J | N P K V | R Y W | S F M | H D U |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-
-This system has remarkably low error rate (approximately the same as a phonetic system) and reasonable compression rates which would be leveraged to make a shorthand since it lets you assign every letter a simple stroke.
-
 | 1 | 2     | 3     | 4     | 5     | 6       | 7     | 8     | 9     |
 | - | ----- | ----- | ----- | ----- | ------- | ----- | ----- | ----- |
 | e | t x z | a c q | i l b | o g j | n p k v | r y w | s f m | h d u |
 
+This system has remarkably low error rate (approximately the same as a phonetic system) and reasonable compression rates which would be leveraged to make a shorthand since it lets you assign every letter a simple stroke.
+
 We'll see the same idea occured earlier in history in Jeake's shorthand, but to vastly different effect.
+
+### QC-Line
+
+> [!Tip]
+> This dictionary is nearly error-free given the structure of this system, the only possible source of error being the system I use to disambiguate the sound of "c".
+
+This is a modern system developed by [u/RainCritical on Reddit](https://www.reddit.com/r/shorthand/comments/1duz9n4/nline_update_results_in_an_entirely_new/).  The simplicity appealed to me, being mainly a vowel reduction system.  The rules are:
+
+1. Replace "q" and "c" with "kw", "k", or "s" depending on sound.
+2. Remove all vowels in the middle of the word, but leave the ones at the end even if silent.
+3. Merge doubled consonants into one.
+
+I was impressed to see it live in an entirely different location to Taylor.  This appears to be true for a few reasons: (i) this system is based off of spelling rather than sounds and includes things like silent "e" at the end of words, so the silent letters help disambiguate words which are merged in Taylor, and (ii) Taylor has rules that dictate that you should never write more than 5 consonants when using the system in practice.  
+
+This again goes to show that, what may apper to be minor modifications can have incredible impact on the final performance.  In the end, QC-line's simple rules place it near Teeline in performance (a little slower, and a little more ambiguous) which is a great place to be!
+
+### Teeline
+
+> [!Caution]
+> This should be treated with suspicion.  I don't know Teeline as a system. The dictionary, while human generated, is formated for other humans to reference in an [Anki deck](https://ankiweb.net/shared/info/310534731) rather than machines, containing a small amount of non-standardization between examples.  For these reasons, Teeline might be over penalized by either or both metrics.
+
+Teeline lands in a strong spot right next to the Gregg family of systems, having slightly more complex outlines than all of them, and an intermediate error level between Gregg Notehand and Gregg Simplified.  A strong system, again earning its place amongst the most popular systems in modern usage.
+
+### Gregg Notehand, Simplified, and Anniversary
+
+> [!Tip]
+> This should be a pretty darn accurate set of datapoints.  Notehand is likely the most inaccurate datapoint coming from a [fairly small dictionary](https://gregg-shorthand.com/2015/09/05/notehand-dictionary/). Simplified comes from a [very nice dictionary provided by u/GreggLife](https://www.reddit.com/r/shorthand/comments/1e7ie7g/gregg_simplified_computerreadable_dictionary/), and Anniversary from a truely massive dictionary as part of [Grascii](https://github.com/grascii/dictionaries).  These are probably the most trustworthy non-trivial data points in the graph, but none are perfect.
+
+We arrive at another one of the greats, Gregg shorthand!  I'm extraordinarily lucky to have reasonably high quality dictionaries for three versions of the system at my disposal as seeing them line up more-or-less as one would expect gave me great confidence that my measurements were done correctly.  
+
+The most complex outlines, and lowest error goes to Gregg Notehand, a system designed to trade off simplicity for speed and reliability.  Next is Simplified, which was designed as a simplified version of Anniversary which maintained most of its performance.  Finally Anniversary is the oldest, fastest, and most complex variant.  This narrative is repeated in my graph!
+
+Of note is the fact that Gregg Anniversary is likely "the best" system on this chart for many users.  The corner at (0,0) is the sweet spot where the outlines are as short as possible with no error, and Gregg Anniversary is pretty close to there!  Pleasing to see.
 
 ### Jeake, Philosophical Transactions No. 487
 
@@ -190,14 +219,17 @@ We'll see the same idea occured earlier in history in Jeake's shorthand, but to 
 
 This is a bizarre and simple system for which I can write all the rules here.  The system is orthographic, and if you encounter the letters below, write the corresponding symbol all connected together.
 
-|:--:|:--:|:--:|:---:|:----:|:---:|:----:|:-:|
-| ／ | ─  | ＼  |  │  |   (  |  )  |  ︵  | ︶ |
+| ／ | ─     | ＼     | │     | (     | )       | ︵     | ︶     |
+| - | ----- | ----- | ----- | ----- | ------- | ----- | ----- |
+| d t | l r | m n | u v w | c s x z | b f p | c g k q | y |
 
-For the letters not on the list (**haeijo**), write nothing.  Finally, if there are multiple of the same symbol in a row, write a double size letter instead.
+You pick the symbol for "c" based on if it sounds like "s" or "k". For the letters not on the list (**haeijo**), write nothing.  Finally, if there are multiple of the same symbol in a row, write a double size letter instead.
 
 That's it.
 
 It has never been popular or notable in any way as far as I can tell (being restricted to only [the original paper](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0041), and a [couple](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0046) of [saucy](https://drive.google.com/file/d/1Ue6BsKnPtQWiNo8je8ZA3-Eywnc5wfSu/view?usp=sharing) replies), but I wish to include it to show that people have proposed some pretty extreme systems that push the mathematical limit of what is possible!  One of only two systems I've found published for which is mathematically incapable of being unambiguous as it is so compressed.
+
+Also note that in comparison to the polyphonic cypher, it is the opposite side of the spectrum of shorthand systems!  The polyphonic cypher is a system that prioritizes reconstruction error over speed, whereas Jeake optimizes speed far over reconstruction error.  Moreover, these two points are at the extremes of the spectrum, indicating that these "smash together letters into the same symbol" type systems are probably all over the spectrum of shorthand systems (indeed I've explored this and they are).
 
 ## Most Wanted Help
 
