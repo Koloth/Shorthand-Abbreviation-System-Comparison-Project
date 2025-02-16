@@ -160,9 +160,24 @@ I'm not going to sugar-coat it: Characterie is one of the worst systems on the c
 ### Yublin
 
 > [!Tip]
-> This system is fully written english except for [600 one or two letter briefs]().  As such the measures are essentially error free.  
+> This system is fully written english except for [600 one or two letter briefs](http://jonathanaquino.com/yublin.csv).  As such the measures are essentially error free.  
 
 Yublin is fascinating as it is basically the start of applying the mathematically perfect proceedure I described above (where you sort all the words by frequency, all the oulines by complexity and match them up), just stopping when you get past all possible two letter words.  As such, it has zero errors (the author never assigns the same brief twice), and does a lot to shorten text.  If you are a person who prefers memorizing facts, this could be a compelling component to add to your shorthand repertoire since it "just" memorizing 600 briefs with no other theory.
+
+### A Readable Polyphonic Cipher
+
+> [!Tip]
+> This dictionary is error-free given the structure of this system.
+
+This was not built as a shorthand, but it is an interesting system [described in this paper](https://digitalcommons.butler.edu/wordways/vol8/iss1/16/) it is a simple cypher of standard english spelling but with a twist where the same symbol is used for many letters.  
+
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| E | T X Z | A C Q | I L B | O G J | N P K V | R Y W | S F M | H D U |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+This system has remarkably low error rate (approximately the same as a phonetic system) and reasonable compression rates which would be leveraged to make a shorthand since it lets you assign every letter a simple stroke.
+
+We'll see the same idea occured earlier in history in Jeake's shorthand, but to vastly different effect.
 
 ### Jeake, Philosophical Transactions No. 487
 
