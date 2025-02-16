@@ -171,7 +171,7 @@ Yublin is fascinating as it is basically the start of applying the mathematicall
 
 This was not built as a shorthand, but it is an interesting system [described in this paper](https://digitalcommons.butler.edu/wordways/vol8/iss1/16/) it is a simple cypher of standard english spelling but with a twist where the same symbol is used for many letters.  
 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | E | T X Z | A C Q | I L B | O G J | N P K V | R Y W | S F M | H D U |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
