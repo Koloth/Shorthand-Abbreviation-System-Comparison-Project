@@ -177,6 +177,10 @@ This was not built as a shorthand, but it is an interesting system [described in
 
 This system has remarkably low error rate (approximately the same as a phonetic system) and reasonable compression rates which would be leveraged to make a shorthand since it lets you assign every letter a simple stroke.
 
+| 1 | 2     | 3     | 4     | 5     | 6       | 7     | 8     | 9     |
+| - | ----- | ----- | ----- | ----- | ------- | ----- | ----- | ----- |
+| e | t x z | a c q | i l b | o g j | n p k v | r y w | s f m | h d u |
+
 We'll see the same idea occured earlier in history in Jeake's shorthand, but to vastly different effect.
 
 ### Jeake, Philosophical Transactions No. 487
