@@ -210,7 +210,18 @@ We arrive at another one of the greats, Gregg shorthand!  I'm extraordinarily lu
 
 The most complex outlines, and lowest error goes to Gregg Notehand, a system designed to trade off simplicity for speed and reliability.  Next is Simplified, which was designed as a simplified version of Anniversary which maintained most of its performance.  Finally Anniversary is the oldest, fastest, and most complex variant.  This narrative is repeated in my graph!
 
-Of note is the fact that Gregg Anniversary is likely "the best" system on this chart for many users.  The corner at (0,0) is the sweet spot where the outlines are as short as possible with no error, and Gregg Anniversary is pretty close to there!  Pleasing to see.
+Of note is the fact that Gregg Anniversary is likely "the best" system on this chart for many people in terms of the most balanced tradeoff between speed and error rates.  The corner at (0,0) is the sweet spot where the outlines are as short as possible with no error, and Gregg Anniversary is pretty close.
+
+But, philispohically, I do not actually know how Gregg achieves it!  It has a fairly robust set of abreviation principles, but nothing remarkable.  It has some consonant blends, but again not that many, and mostly they are there to either fix issues with the strokes assigned to some common letter pairs (like "fr") or to provide some obvious improvements to common combinations (like "nt" or "ded"), but they hardly seem sufficient to explain it.  It has a very large number of brief forms, but that is common to many systems.  It is hard to find a way that Gregg truely shines here, but shine it does!
+
+### Bref
+
+> [!Tip]
+> This dictionary is error-free given the structure of this system, as presented in [the dictionary as shared on reddit by u/donvolk2](https://www.reddit.com/r/shorthand/comments/esjhdk/bref_shorthand/).
+
+This one, once plotted, absolutely needed to be included in the analysis.  Bref is, as far as I can tell, a dictionary of approximately 11K brief forms which have a series of guidelines in how they were created, but are not the product of applying abbreviation rules.  Most notably, every breif form is chosen to be unique and thus never introduces any error!  Extraordinarily memory heavy, but also essentially producing an optimal abbreviation system. The author uses is daily, so it is practical, but it likely takes a long time to learn.  No matter what, hat's off to the system creator in authoring what is, as far as I can tell, the most efficient set of brief forms ever created by any shorthand author.  
+
+If we want to get technical, this system Pareto dominates every system discussed so far for these two metrics including every version of Gregg.  What this means is that bref both has fewer errors than Gregg Anniversay (indeed no errors), and has shorter outlines.
 
 ### Jeake, Philosophical Transactions No. 487
 
