@@ -323,7 +323,7 @@ Given this, I have decided to leave this problem as-is.  There are two ways to f
 
 1. **Add an explicit space character that you need to write after every word.** If your definition of "word" includes the space, then it is clearly uniquely decodable.  There is no issue, and the theory progresses normally.  This option is available in the code by sending, for instance, `delim="~"` to the `compute_statistics` function.  The effect is to shift everything off to the right.  This also can help deal naturally with positional information, which is currently over-emphasized compared to non-positional systems by encoding such systems with multiple types of space symbols.  However, this ignores the fact that many systems are essentially uniquely decodable already, even without the delimiter.
 
-2. **Devise a notion of information theory where it is assumed delimiters are free.** This is not as crazy as is sounds!  I'll leave a link here to some handwritten notes (in Taylor shorthand) explaining this theory.  It turns out that there is a corresponding notion of entropy where, given a set of probabilities, $p_i$, you sort them in decreasing order and compute
+2. **Devise a notion of information theory where it is assumed delimiters are free.** This is not as crazy as is sounds!  I'll leave a [link here to some handwritten notes](SpaceDelimitedInformationTheory.pdf) (in Taylor shorthand) explaining this theory.  It turns out that there is a corresponding notion of entropy where, given a set of probabilities, $p_i$, you sort them in decreasing order and compute
 
 $$
 L(p) = \sum_{i=1}^\infty p_i\log(i).
