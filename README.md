@@ -315,7 +315,7 @@ While this is not strictly true, it is actually often very close to true for any
 
 However, it is worth remembering that it is not fully.  For instance:
 
->itsnownowhereisaniceplaceletsgotogether
+>itsnowednowhereisaniceplaceletsgotogether
 
 Could be parsed either as, "It's now, Ed! Nowhere is a nice place. Let's go to get her." or as "It snowed! Now here is an ice place. Let's go together."
 
