@@ -295,7 +295,7 @@ Also note that in comparison to the polyphonic cypher, it is the opposite side o
 
 ### Better Pitman and Teeline
 
-I do not know these systems well, nor do I have a high-quality dictionary.  This is a dangerous combination, and I almost opted to not include these systems lest people get the impression that I am trying to not give them fair consideration.  Instead, I hope that 
+I do not know these systems well, nor do I have a high-quality dictionary.  This is a dangerous combination, and I almost opted to not include these systems lest people get the impression that I am trying to not give them fair consideration.  Instead, I hope that people will help give them their due in this analysis!
 
 ### Forkner
 
