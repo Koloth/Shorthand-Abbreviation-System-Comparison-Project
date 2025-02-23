@@ -237,7 +237,7 @@ It is also nicely balanced, existing close to the optimal point balancing betwee
 > [!Warning]
 > This uses a machine generated dictionary.  Yash is neither strictly phonetic nor orthographic, but instead needing alignment between the pronunciation and the spelling.  This was based on code that aligns the IPA pronunciation with the English spelling, and then assigns the correct character.  While I have found it rather reliable, I doubt it is perfect.
 
-Every system discussed so far, prioritizes accuracy over speed (or potentially balances them fairly equally like Gregg, or Dutton Speedwords).  Yash is an excellent example of the second kind of system that prioritizes speed over accuracy.  As such, the reconstruction error is quite high, at nearly 20%.  This simple typeable system performs quite well, and is one of the lowest error typeable English shorthand systems I know.
+Every system discussed so far, prioritizes accuracy over speed (or potentially balances them fairly equally like Gregg, or Dutton Speedwords).  [Yash](https://sotolf.codeberg.page/posts/shorthand/), created by [u/trymks](https://www.reddit.com/user/trymks/) over on Reddit, is an excellent example of the second kind of system that prioritizes speed over accuracy.  As such, the reconstruction error is quite high, at nearly 20%.  This simple typeable system performs quite well, and is one of the lowest error typeable English shorthand systems I know.
 
 ### Taylor
 
