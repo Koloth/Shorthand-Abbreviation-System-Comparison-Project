@@ -223,6 +223,55 @@ This one, once plotted, absolutely needed to be included in the analysis.  Bref 
 
 If we want to get technical, this system Pareto dominates every system discussed so far for these two metrics including every version of Gregg.  What this means is that bref both has fewer errors than Gregg Anniversay (indeed no errors), and has shorter outlines.
 
+### Dutton Speedwords
+
+> [!Tip]
+> [This dictionary](http://www2.cmp.uea.ac.uk/~jrk/conlang.dir/Speedwords.dict) should be quite accurate given the structure of Dutton's system, so can be trusted pretty well.
+
+Dutton Speedwords is a fascinating system that tries to build an international auxilerary language based on the principle of brevity.  Common words are given one or two letter expressions, and common prefixes and suffixes are single letters.  While not explicitly a shorthand system, Dutton himself was interested in shorthand and made this to be brief and efficient.
+
+It is also nicely balanced, existing close to the optimal point balancing between speed and reconstruction error.
+
+### Yash
+
+> [!Warning]
+> This uses a machine generated dictionary.  Yash is neither strictly phonetic nor orthographic, but instead needing alignment between the pronunciation and the spelling.  This was based on code that aligns the IPA pronunciation with the English spelling, and then assigns the correct character.  While I have found it rather reliable, I doubt it is perfect.
+
+Every system discussed so far, prioritizes accuracy over speed (or potentially balances them fairly equally like Gregg, or Dutton Speedwords).  Yash is an excellent example of the second kind of system that prioritizes speed over accuracy.  As such, the reconstruction error is quite high, at nearly 20%.  This simple typable system performs quite well, and is one of the lowest error typable English shorthands I know.
+
+### Taylor
+
+> [!Warning]
+> This uses a machine generated dictionary.  Taylor's system is neither strictly phonetic nor orthographic, but instead needing alignment between the pronunciation and the spelling.  This was based on code that aligns the IPA pronunciation with the English spelling, and then assigns the correct character for Taylor.  While I have found it rather reliable, I doubt it is perfect.
+
+Taylor is another excellent example of the second kind of system that prioritizes speed over accuracy. As such, the reconstruction error is quite high, at over 20%.
+
+One of the common features of many Taylor variants were that they attempted to add greater subtlty to vowel representations, allowing different vowels to be distinguished.  In order to represent this type of variation, I also created the "Taylor+" system which is exactly the same as the original Taylor system, but it adds back the traditional five vowel system (a,e,i,o,u) to allow for the vowels to be distinguished.  This reduces the error somewhat to just under 20%, but also makes it slower to write.
+
+### Dearborn Speedwriting
+
+> [!Tip]
+> This dictionary should be of high quality, and is fairly complete.
+
+This is one of the most popular typable shorthand systems that exists.  It performs very well, having the lowest error rate of any such system I've found, but also being very brief.
+
+It is worth noting that almost all of the typable systems are what I consider the second type of shorthand system, priotitizing speed over reconstruction error.  If you think about it, this is nearly inevitable.  A typable shorthand system cannot gain speed through the way it represents character, all it can do is minimize the number of letters you need to type.  As such, it will need to always prioritize brevity above all else.
+
+
+### Carter Briefhand
+
+> [!Tip]
+> [This dictionary](https://www.reddit.com/r/shorthand/comments/xg7k10/a_briefhand_resource/) should be of high quality, and is fairly complete.
+
+This is another typable system for which I could find a good dictionary.  This system starts to push the limits of what is mathematically possible almost meeting the entropy limit of the English language.
+
+### Keyscript
+
+> [!Warning]
+> [This dictionary](https://keyscriptshorthand.com) is high quality (since it is official), but small, so there could be some statistical bias in the estimates.
+
+Keyscript is advertized as "The fastest alphabetic shorthand" and, for the dictionaries I have found, I think it is true to its claim!  This system is remarkable, being only one of two systems I tested for which it is mathematically impossible to have zero error given how brief it is (under the uniquely decomposable assumption mentioned above).  It pays for it with a fairly high degree of ambiguity, however if you need the speed it does quite well at minimizing the error.  This system is one of the few modern systems that exists, so I recommend you purchase the system if the performance is interesting to you!  The PDFs are clearly written, and it is great to support modern system developers.
+
 ### Jeake, Philosophical Transactions No. 487
 
 > [!Tip]
@@ -263,6 +312,12 @@ This is only for the true die-hards, but the *excluded region* in the graph abov
 While this is not strictly true, it is actually often very close to true for any system based on either the spelling or sounds of words.  
 
 >Afterall,Englishcanbereadevenifyoudeleteallthespacesbetweenwords.ThismeansthatEnglishisprettyclosetouniquelydecodable.Alsopeoplecanspeakquicklyblurringthesoundsofwordstogetherandstillbeunderstood.
+
+However, it is worth remembering that it is not fully.  For instance:
+
+>itsnownowhereisaniceplaceletsgotogether
+
+Could be parsed either as, "It's now, Ed! Nowhere is a nice place. Let's go to get her." or as "It snowed! Now here is an ice place. Let's go together."
 
 Given this, I have decided to leave this problem as-is.  There are two ways to fix this if you want to be completely above-board:
 
