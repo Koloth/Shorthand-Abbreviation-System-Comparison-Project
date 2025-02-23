@@ -217,7 +217,7 @@ But, philosophically, I do not actually know how Gregg achieves it!  It has a fa
 ### Bref
 
 > [!Tip]
-> This dictionary is error-free given the structure of this system, as presented in [the dictionary as shared on reddit by u/donvolk2](https://www.reddit.com/r/shorthand/comments/esjhdk/bref_shorthand/).
+> This dictionary is error-free given the structure of this system, as presented in [the dictionary as shared on reddit by its creator u/donvolk2](https://www.reddit.com/r/shorthand/comments/esjhdk/bref_shorthand/).
 
 This one, once plotted, absolutely needed to be included in the analysis.  Bref is, as far as I can tell, a dictionary of approximately 11K brief forms which have a series of guidelines in how they were created, but are not the product of applying abbreviation rules.  Most notably, every brief form is chosen to be unique and thus never introduces any error!  Extraordinarily memory heavy, but also essentially producing an optimal abbreviation system. The author uses is daily, so it is practical, but it likely takes a long time to learn.  No matter what, hat's off to the system creator in authoring what is, as far as I can tell, the most efficient set of brief forms ever created by any shorthand author.  
 
