@@ -134,15 +134,13 @@ It is fairly compelling as a potential basis of a shorthand system as it is sign
 ### Pitman 2000
 
 > [!Caution]
-> This should be treated with suspicion.  Due to the omission of an explicit space character, over penalizes Pitman's use of position.  Additionally, I don't know Pitman as a system, the dictionary is somewhat machine generated (although I am deeply indebted to the author for providing the underlying dictionary to make this analysis possible), and Pitman dictionaries always record the full representation of the word, which is never what stenographers use at speed.  Moreover, Pitman 2000 is considered by many to be inferior to the earlier Pitman New Era.
+> This should be treated with suspicion.  Due to the omission of an explicit space character, over penalizes Pitman's use of position.  Additionally, I don't know Pitman as a system, the dictionary is somewhat machine generated (although I am deeply indebted to the author for providing the underlying dictionary to make this analysis possible), and Pitman dictionaries always record the full representation of the word, which is never what stenographers use at speed.  Also, this Pitman dictionary does not provide expressions for the briefs but instead treats them like arbitrary characters. 
 
 I'm going to reiterate again here to make sure it is seen: these dots should not be trusted!  However, it shows an interesting enough picture that I wanted to include them.
 
-First off, note that the fully represented Pitman 2000 is no more ambiguous than IPA itself, but is vastly more brief!  Pitman created his system to be an efficient way to write spoken words exactly.  It certainly does exactly that, achieving its brevity through extensive attention to efficiently representing consonant clusters.
+First off, note that the fully represented Pitman 2000 is no more ambiguous than IPA itself, but is vastly more brief!  Pitman created his system to be an efficient way to write spoken words exactly.  It certainly does exactly that, achieving some brevity through extensive attention to efficiently representing consonant clusters.
 
-Second, when fully diesmvoweled, the system becomes approximately as brief as Gregg Simplified (possibly even more brief than Gregg Anniversary if the positional information were properly accounted for) while still having lower error rate than other fully disemvoweled systems like Taylor.  This is almost entirely due to the way it handles consonant clusters which allows the reader to infer the position of vowels even when the vowels are not written.
-
-Third, a Pitman author learns through practice which vowel markers should be retained for clarity.  I cannot find any dictionary indicating what is practically done, but if I attempt to approximate an optimal vowel retention via a computer search, you end up with a system which is essentially no more ambiguous than fully written Pitman 2000, but is guaranteed to be essentially as brief as systems like Gregg Notehand.  Again, because positional information is not fully handled by this analysis, it is likely much briefer, perhaps even to the level of Gregg Simplified.
+Second, when fully diesmvoweled, the system becomes even more brief than Gregg Anniversary while still having lower error rate than other fully disemvoweled systems like Taylor.  This is almost entirely due to the way it handles consonant clusters which allows the reader to infer the position of vowels even when the vowels are not written.
 
 I think this performance is astonishing (particularly when you account for the known shortcomings of this analysis), and well earns Pitman its position as amongst the best systems in history.
 
@@ -153,7 +151,7 @@ I think this performance is astonishing (particularly when you account for the k
 
 Characterie is the oldest English shorthand system in existence.  It is founded on a completely separate principle than any other system, where you first select a synonym, antonym, or a category the word belongs to from a list of approximately 500 words, and then writes a special symbol for that word along with the first letter or two of the original word.
 
-Based upon this, I assumed that it would be much briefer than it is, and also that it would have much higher error rates.  I was shocked to see it instead seems to have error rates on-par with highly optimized systems like Gregg Simplified!  Had I not created the dictionary laboriously myself checking each word by hand (which took me a few minutes), I would doubt the result, however I am absolutely certain these representations are reasonable.
+Based upon this, I assumed that it would be briefer than it is, and also that it would have much higher error rates.  I was shocked to see it instead seems to have error rates on-par with highly optimized systems like Gregg Simplified!  Had I not created the dictionary laboriously myself checking each word by hand (which took me a few minutes), I would doubt the result, however I am absolutely certain these representations are reasonable.
 
 I'm not going to sugar-coat it: Characterie is one of the worst systems on the chart, but I still find its performance surprising!  A great showing for a system created fully without any known president.
 
