@@ -2,15 +2,11 @@
 2,two
 |,the
 |es,these
-|es,these
 |n,than
 |n,then
 |nk,think
-|nk,think
 |o,though
 |r,there
-|rf,therefore
-|rf,therefore
 |rf,therefore
 |ro,throw
 |ru,through
@@ -35,7 +31,6 @@ acount,account
 acrd-g,according
 acrs,across
 acS,action
-actul,actual
 actul,actual
 actull,actually
 acurt,accurate
@@ -155,7 +150,6 @@ Cerfl,cheerfully
 Ck,check
 cke,cake
 cl,call
-cl,call
 clb,club
 clcS,collection
 clct,collect
@@ -173,7 +167,6 @@ cmftb,confortable
 cmnd,commend
 cmp,complete
 cmpl,completely
-cmpl,competely
 cmplm,complement
 cmpS,completion
 cmpus,campus
@@ -279,7 +272,6 @@ dpst,deposit
 dra,draw
 dra-g,drawing
 drct,direct
-drct,direct
 drft,draft
 drp,drop
 ds,does
@@ -378,7 +370,7 @@ frnd,friend
 frst,first
 fS,fashion
 fscl,physical
-fscl,fiscl
+fscl,fiscal
 fsen,forseen
 fu,few
 futr,future
@@ -424,7 +416,6 @@ hlpf,helpful
 hm,him
 hndl,handle
 hom,home
-hop,hope
 hop,hope
 hotl,hotel
 hous,house
@@ -512,7 +503,6 @@ majr,major
 mak,make
 mal,mail
 man,main
-man,main
 mar,mayor
 mbr,member
 mbrSp,membership
@@ -537,7 +527,7 @@ most,most
 mpl,employ
 mple,employee
 mples,employees
-mplm,emplotment
+mplm,employment
 mplr,employer
 mport,import
 mprprl,improperly
@@ -825,7 +815,6 @@ rtir,retire
 rtirm,retirement
 rtn,written
 rtnS,retention
-rtnS,retention
 rtrn,return
 rul,rule
 rum,room
@@ -992,14 +981,12 @@ uqbl,unquestionably
 us,us
 us,use
 usf,useful
-usf,useful
 uslf,yourself
 Ustnd,understand
 usull,usually
 Utak,undertake
 utl,until
 utl-t,utility
-v,very
 v,very
 vacaS,vacation
 vcn-t,vicinity
@@ -1032,7 +1019,6 @@ wn,when
 wndr,wander
 wot,without
 wr,where
-wr|,worth
 wr|,worth
 wrd,word
 wrhous,warehouse
