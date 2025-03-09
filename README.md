@@ -221,6 +221,17 @@ This one, once plotted, absolutely needed to be included in the analysis.  Bref 
 
 If we want to get technical, this system Pareto dominates every system discussed so far for these two metrics including every version of Gregg.  What this means is that bref both has fewer errors than Gregg Anniversary (indeed no errors), and has shorter outlines.
 
+### Superwrite
+
+> [!Warning]
+> This dictionary was contributed to this project by [Keith Rowe](https://github.com/keithrowe). It is high-quality, but I am marking it with a warning mark as it is a little on the small side for now.
+
+Superwrite is often considered one of the more verbose alphabetic shorthands, but easier to read than most others.  Given this reputation, it is pleasant to see that it finds itself significantly lower reconstruction error than the other alphabetic systems, lending some credibility to this metric correlating with human evaluation.  
+
+It also offers theoretical performance near fully disemvoweled Pitman 2000, which gives a great opportunity to reflect on what that performance means.  Pitman 2000 is much faster in practice to write than Superwrite as Pitman uses simple strokes for all characters and Superwrite uses full alphabetic character.  However, this can be interpreted as saying that if the theory of both systems were encoded equally efficiently into written symbols, both systems would perform similarly.  
+
+A nice system, providing a balance between efficiency and legibility.
+
 ### Dutton Speedwords
 
 > [!Tip]
