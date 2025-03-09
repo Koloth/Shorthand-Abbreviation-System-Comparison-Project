@@ -262,7 +262,7 @@ One of the common features of many Taylor variants were that they attempted to a
 > [!Tip]
 > This dictionary should be of high quality, and is fairly complete.
 
-This is one of the most popular typeable shorthand systems that exists.  It performs very well, having the lowest error rate of any such system I've found, but also being very brief.
+This is one of the most popular typeable shorthand systems that exists.  It performs very well, having the lowest error rate of any system which is so brief that it is impossible to be error-free.
 
 It is worth noting that almost all the typeable systems are what I consider the second type of shorthand system, prioritizing speed over reconstruction error.  If you think about it, this is nearly inevitable.  A typeable shorthand system cannot gain speed through the way it represents character, all it can do is minimize the number of letters you need to type.  As such, it will need to always prioritize brevity above all else.
 
@@ -272,14 +272,14 @@ It is worth noting that almost all the typeable systems are what I consider the 
 > [!Tip]
 > [This dictionary](https://www.reddit.com/r/shorthand/comments/xg7k10/a_briefhand_resource/) should be of high quality, and is fairly complete.
 
-This is another typeable system for which I could find a good dictionary.  This system starts to push the limits of what is mathematically possible almost meeting the entropy limit of the English language.
+This is another typeable system for which I could find a good dictionary.  This system again is so efficient that it is not possible for it to be error-free.
 
 ### Keyscript
 
 > [!Warning]
 > [This dictionary](https://keyscriptshorthand.com) is high quality (since it is official), but small, so there could be some statistical bias in the estimates.
 
-Keyscript is advertised as "The fastest alphabetic shorthand" and, for the dictionaries I have found, I think it is true to its claim!  This system is remarkable, being only one of two systems I tested for which it is mathematically impossible to have zero error given how brief it is (under the uniquely decomposable assumption mentioned above).  It pays for it with a fairly high degree of ambiguity, however if you need the speed it does quite well at minimizing the error.  This system is one of the few modern systems that exists, so I recommend you purchase the system if the performance is interesting to you!  The PDFs are clearly written, and it is great to support modern system developers.
+Keyscript is advertised as "The fastest alphabetic shorthand" and, for the dictionaries I have found, I think it is true to its claim!  This system is remarkable, being only one of a few systems I tested for which it is mathematically impossible to have zero error given how brief it is (under the uniquely decomposable assumption mentioned above).  It pays for it with a fairly high degree of ambiguity, however if you need the speed it does quite well at minimizing the error.  This system is one of the few modern systems that exists, so I recommend you purchase the system if the performance is interesting to you!  The PDFs are clearly written, and it is great to support modern system developers.
 
 ### Jeake, Philosophical Transactions No. 487
 
@@ -296,7 +296,7 @@ You pick the symbol for "c" based on if it sounds like "s" or "k". For the lette
 
 That's it.
 
-It has never been popular or notable in any way as far as I can tell (being restricted to only [the original paper](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0041), and a [couple](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0046) of [saucy](https://drive.google.com/file/d/1Ue6BsKnPtQWiNo8je8ZA3-Eywnc5wfSu/view?usp=sharing) replies), but I wish to include it to show that people have proposed some pretty extreme systems that push the mathematical limit of what is possible!  One of only two systems I've found published for which is mathematically incapable of being unambiguous as it is so compressed.
+It has never been popular or notable in any way as far as I can tell (being restricted to only [the original paper](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0041), and a [couple](https://royalsocietypublishing.org/doi/10.1098/rstl.1748.0046) of [saucy](https://drive.google.com/file/d/1Ue6BsKnPtQWiNo8je8ZA3-Eywnc5wfSu/view?usp=sharing) replies), but I wish to include it to show that people have proposed some pretty extreme systems that push the mathematical limit of what is possible!  One of only a handful of systems I've found published for which is mathematically incapable of being unambiguous as it is so compressed.
 
 Also note that in comparison to the polyphonic cipher, it is the opposite side of the spectrum of shorthand systems!  The polyphonic cipher is a system that prioritizes reconstruction error over speed, whereas Jeake optimizes speed far over reconstruction error.  Moreover, these two points are at the extremes of the spectrum, indicating that these "smash together letters into the same symbol" type systems are probably all over the spectrum of shorthand systems (indeed I've explored this, and they are).
 
