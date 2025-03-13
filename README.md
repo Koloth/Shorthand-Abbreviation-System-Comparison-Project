@@ -131,6 +131,15 @@ While not a shorthand system itself, things like [One Stroke Script](https://dri
 
 It is fairly compelling as a potential basis of a shorthand system as it is significantly shorter than traditional spelling, while also introducing very few confusions not inherent already in English spelling and being closer to phonetic.
 
+### Swiftograph (Abbott `15)
+
+> [!Warning]
+> This dictionary is machine created so should be somewhat doubted.  On paper, the theory of Swiftograph seems very simple and automatable, but then when you reference the writing samples, there are a number of rules which are not explicitly stated that the author follows, namely: omission of all diacritics, and aggressive curtailment cutting off words with more than 5 characters in them.  I've implemented both, but as the theory is not clearly elaborated, this should be viewed as approximate.
+
+Swiftograph is an interesting and simple system with very few rules built on top of the traditional spelling of words, handful of briefs, and a few blends.  It looks very nice on the page, but after reading the text and examining the examples it became clear to me that it was not fully explained, thus I made two dictionaries.  The dictionary "Swiftograph Full" is the dictionary of only the written rules in the text, and it performs the least abbreviated of any system I examined.  The dictionary "Swiftograph Curtailed" is the version dropping diacritics and aggressively trimming words at five characters.  This is decently abbreviated (between Gregg Notehand and Simplified), but has a rather high 10% error rate.  
+
+Not the highest performing system by a wide margin, but it does a great job demonstrating two of the limitations of this analysis.  First, it doesn't take into account anything about the way the abbreviated forms are actually turned into strokes and I find Swiftograph excels at this producing smooth, distinct, and rather linear outlines.  Second, it doesn't take into account the simplicity of the theory, which again Swiftograph excels.  A nice system I'm glad I added! 
+
 ### Pitman 2000
 
 > [!Caution]
