@@ -323,6 +323,70 @@ I was astonished there was not more Forkner content out there! The system is nea
 
 The typeable systems are the ones most easily amenable to analysis, but I could only find a handful of them with transcribed dictionaries.  I'd love to get all the typeable systems in here, so if anyone has one sitting around or is willing to transcribe one, let me know!
 
+## An Analysis of Abbreviation Principles
+
+Beyond the analysis of individual systems, we can also compare various methods of abbreviation common in English shorthand to see how they each individually contribute to the outline complexity and reconstruction errors.  A full shorthand abbreviation system has many components including: consonant representation, vowel representation, common prefix/suffix representation, general curtailment (shortening rule), and brief forms.  Things like prefix/suffix representation and brief forms come in limitless combinations, and so while these techniques can be used to study various choices, it is hard to draw general conclusions.  However, there are certain basic archetypal schemes for consonant and vowel representation that we can investigate.
+
+### The Foundation: Folk Phonetic
+
+To make the comparison fair, we want to build on something that resembles the basic phonetic principles used throughout most of the shorthand world.  Very few systems have the specificity of full IPA, in particular most of them prior to the 1800s used the simple five vowel system with long and short versions for each of the five standard "a", "e", "i", "o", and "u".  To mimic this, we have built a simple reduction from IPA to produce something that resembles what someone would write if you asked them to "write the word as it sounds".  So for instance:
+
+> A robot may not injure a human being or through inaction allow a human being to come to harm.
+
+Would be rendered as:
+
+> E robet ma nat injer e umen beiŋ er θru inakʃen elau e umen beiŋ te kem te harm.
+
+This does not fully reflect what would be done in practice (it seems primarily because the IPA dictionary I use leans heavily on the schwa, rendering "a" as just a schwa and "to" also with a schwa--in most systems this would revert to the orthographic spelling, however I wish to keep this experiment fully phonetic), but it is a reasonable approximation.  Many of the conclusions I draw here are fairly resilient to exactly how *Folk Phonetic* is defined, so we do not spend too much time on its definition.  The code may be referenced for a precise specification.
+
+### Consonant Representation Choices
+
+We examine a number of different ways to represent consonants, which are common to many shorthand systems.  
+
+**Full Consonant Representation.** In this case, all consonants as written in IPA are fully represented.  This includes distinctions that are uncommonly made in shorthand systems, such as distinguishing the voiced and unvoiced versions of the "th" sound.  This can sometimes matter, as it is the only difference between the words "bath" and "bathe" and "cloth" and "clothe".  
+
+**Full Plosives, Merged Fricatives.** In this case, all consonant distinctions are made, except we merge the voiced and unvoiced plosives.  This is a very common merger in shorthand systems as it merges "th" and "dh", "sh" and "zh", and "s" and "z".  The only one that is somewhat uncommon to see is the merger of "f" and "v", but even this is found in systems like Taylor.  I'm actually very fond of this full set of mergers as it does a good job regularizing a number of otherwise irregular plurals like "wolves" which ends in "vz" in IPA now is represented the same as "wolfs".
+
+**Merged Consonants.** This merges all voiced and unvoiced pairs across all consonants, including now merging "t" with "s", "p" with "b", "k" with "g", "ch" with "j".  This is a fairly extreme representation, but it is used in some systems like Amié Paris and Roe.  Even systems that do not explicitly merge them will represent them using the most easily confused strokes under the claim that often confusing "p" with "b" or "t" with "d" will not render the meaning illegible (like Gregg).  
+
+### Vowel Representation Choices
+
+Similarly, many systems have a wide spectrum of methods used to represent vowels.  Many times shorthand systems take an extreme point of view here, eliminating most if not all vowels.
+
+**Full Folk Vowel Representation.** This keeps in every vowel without any reduction.  Rarely taken as a choice in shorthand systems, as almost every system does at least the next thing.
+
+**Schwa Suppression.** The schwa is that brief "uh" sound in English which is essentially a neutral vowel sound.  When speaking we essentially never stress it, and in some cases some speakers even skip some schwas in sentences.  This makes it ripe for removal in a shorthand system, and it is a very commonly used abbreviation technique. Schwa is only removed when used medially (in the middle of words) and is kept if it is the sound at the beginning or end of a word.
+
+**Short Vowel Suppression.** This suppresses every vowel in the middle of a word unless it is one of the five long vowels which sound like "ay", "ee", "eye", "oh", and "you".  This is a more extreme vowel reduction method which is used under the premise that long vowels are more distinct when heard.  
+
+From here, there are two common further reductions, either getting rid of lateral vowels (the vowels at the ends of words) as well, or getting rid of all medial vowels all together.  We'll start by describing the various medial vowel removal systems.
+
+**Medial Vowel Suppression.** This suppresses all medial vowels, leaving only those vowels at the beginning or end of words.
+
+**Flattened Medial Vowel Suppression.** This is an extreme point of view, taken by Taylor, that only the presence of initial or final vowels needs to be marked, not which vowel it is.
+
+And also we can just keep long vowels.
+
+**Long Vowels Only.** This method keeps only long vowels, removing anything that isn't "ay", "ee", "eye", "oh", and "you".
+
+And finally, the most extreme.
+
+**No Vowels.** This fully drops all vowels, leaving only the consonant skeleton.  This was so common that there were once made "shorthand dictionaries" which were not specific to any exact system which allow you to look up all words with a given consonant skeleton.
+
+### Conclusions
+
+![](principle_comparison_graph.svg)
+
+We see here that there are a number of pretty conclusive take-aways we can obtain from this chart.
+
+**Consonant Representation (At Least Those Tested) Matters Less than Vowel Representation.** When you look at the chart, changing the way that consonants are represented has a far smaller change in how the system performs than changes in the vowel system.  This shouldn't be too surprising as the way most of the consonant systems work is by merging together consonants, but still representing them all, whereas most vowel systems work by dropping vowels (a far more dramatic change).  It does, however, point to an interesting question: *should we be considering more dramatic changes to consonant representation?*
+
+**Don't Suppress All Medial Vowels.**  These systems do very poorly overall on these two metrics.  For only medial vowel suppression, we see that you can almost always do better by either fully representing consonants and long vowels, or by merging all consonant pairs and representing everything but medial short vowels.  If you go all the way to Taylor's flattened lateral vowel scheme, we see that you can almost exactly match the same level of compression with representing long vowels, but with significantly lower error rate.  As a Taylor user, this makes me sad.
+
+**Don't Suppress All Vowels.** This one is more subtle, but it turns out that a more subtle analysis will show that you actually have a smaller error rate overall if you simply drop some words at random rather than omit all vowels (The basic summary of that is that dropping words with a probability $p$ has a predictable change in both the outline complexity, which gets scaled by $p$, and the error rate, which is $1$ with probability $p$ and the normal rate with probability $1-p$).  This means you are better off stumbling and struggling to keep up with a more complex system than trying to write only the consonant skeleton.
+
+All these conclusions, of course, are contingent on all the normal caveats presented above.
+
 ## A Mathematical Caveat
 
 This is only for the true diehards, but the *excluded region* in the graph above is not technically excluded.  That line is derived from a form of [Fano's Inequality](https://en.wikipedia.org/wiki/Fano%27s_inequality) which relates the entropy of the English language, the entropy of the abbreviation system, and the error rate.  This applies universally, however in order to connect the entropy of the abbreviation system to the average length (assuming optimal coding of the shorthand system's symbols) you need to assume that the abbreviation system is [uniquely decodable](https://en.m.wikipedia.org/wiki/Variable-length_code#Uniquely_decodable_codes), which means in essence that you could still read it without any spaces in between words.  
