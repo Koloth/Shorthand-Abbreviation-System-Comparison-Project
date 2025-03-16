@@ -385,7 +385,13 @@ We see here that there are a number of pretty conclusive take-aways we can obtai
 
 **Don't Suppress All Vowels.** This one is more subtle, but it turns out that a more subtle analysis will show that you actually have a smaller error rate overall if you simply drop some words at random rather than omit all vowels (The basic summary of that is that dropping words with a probability $p$ has a predictable change in both the outline complexity, which gets scaled by $p$, and the error rate, which is $1$ with probability $p$ and the normal rate with probability $1-p$).  This means you are better off stumbling and struggling to keep up with a more complex system than trying to write only the consonant skeleton.
 
-All these conclusions, of course, are contingent on all the normal caveats presented above.
+**The Schwa Can Be Strictly Harmful.** This one is again a subtle point, however note that the representation where the schwa is included both is longer and has higher error rate!  The reason for this is that I needed to assign schwa to some letter, so I assigned it to "e" (the most common letter that makes the schwa sound).  However, I did test all five possible schwa representations, and all showed the same pattern: the full representation including the schwa had higher error rate than the one that omits the schwa!  One could give the schwa its own symbol, or assign it the orthographic letter that produces it (as is common in many older systems), but I find neither of these solutions particularly compelling.
+
+All these conclusions, of course, are contingent on all the normal caveats presented above, along with an extra caveat that it is tested only in the sandbox environment provided by Folk Phonetic.
+
+One can also overlay these plots with the original systems and see that systems are often in the same ballpark as the most similar underlying abbreviation principles.
+
+![](principle_system_comparison_graph.svg)
 
 ## A Mathematical Caveat
 
