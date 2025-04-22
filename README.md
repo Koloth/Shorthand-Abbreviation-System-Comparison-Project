@@ -417,8 +417,6 @@ As I have never seen these sentences before, the only information I have on thei
 
 ### Analysis
 
-# Analysis
-
 We can now analyze and compare with the theoretical predictions from the reconstruction probability.  First, we will compute the estimates of:
 
 1. **The measured error rate.** This is simply the fraction of the words I actually got right.
