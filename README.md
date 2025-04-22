@@ -437,7 +437,7 @@ After that, we compare the theoretical probabilities with the measured probabili
 
 ![](human_line_fit.svg)
 
-This shows that a linear model fits our data pretty well!  The $R^2$ value is about $0.92$, which means that about $92%$ of the variation between the measurements we see are explained by the reconstruction error.
+This shows that a linear model fits our data pretty well!  The $R^2$ value is about $0.92$, which means that about $92\%$ of the variation between the measurements we see are explained by the reconstruction error.
 
 ### Conclusions
 
