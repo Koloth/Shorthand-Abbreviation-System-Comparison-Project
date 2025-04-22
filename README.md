@@ -393,6 +393,70 @@ One can also overlay these plots with the original systems and see that systems 
 
 ![](principle_system_comparison_graph.svg)
 
+## Human Validation
+
+All the above theory is interesting, but it is worthless if it does not connect to how humans experience these abbreviations systems.  Thus, to round off the story, we need to establish how human beings perform and compare it with theory.  There are a number of relevant factors:
+
+1. **Humans can easily use context.**  To a person, it is comparatively easy to revise guesses to more likely alternatives as a sentence is being read.  Indeed, with many shorthand systems (like Taylor) the experience of seeing a sentence fall into place after decoding a few key words is common.  This is a natural part of shorthand reading which is ignored by the theory above. This means that humans should almost always out-perform the predicted error rates above.
+
+2. **Humans can't always find the most likely word.** There is one factor working against human though, which is that we are typically not able to find the absolute most likely work for any particular outline.  This should slightly degrade human performance at isolated word prediction.
+
+The way these two factors combine can be tested with a suitably designed experiment, at least for a $N=1$ experiment with me as the human test subject.  Ideally, a much larger population would be used to provide greater statistical rigor.  Alas, we do not currently live in a time when finding such a population is likely.  
+
+### Experimental design
+
+This is an important part: we will use the [Harvard Sentences](https://en.wikipedia.org/wiki/Harvard_sentences).  Thankfully, I had never heard of these before, because if I had, it would have ruined my ability to use them in this experiment.  The Harvard Sentences are 720 grammatically correct sentences on random topics, all of about 10 words each, that were designed to benchmark telephone systems ability to transmit speech. What makes them particularly useful here is that they are designed to be *phonetically balanced*, which is to say that they use the sounds of English in the same frequency as they appear in English.  This makes them fantastic for benchmarking the performance of a phonetic shorthand system.
+
+The experimental protocol is as follows:
+1. The system will loop exactly once over all the Harvard Sentences.
+2. For each sentence, it will select a random abbreviation system from the above methods.
+3. The choice of system, along with the encoded sentence, is displayed to the experiment subject.
+4. The subject then types in their translation of the sentence back to standard English.
+
+As I have never seen these sentences before, the only information I have on their content is through the shorthand. Thus, my ability to translate these sentences with the context of the other words around can be compared with the theoretical predictions.
+
+### Analysis
+
+# Analysis
+
+We can now analyze and compare with the theoretical predictions from the reconstruction probability.  First, we will compute the estimates of:
+
+1. **The measured error rate.** This is simply the fraction of the words I actually got right.
+2. **The measured complexity.** This is an explicit estimate of outline complexity.  It is the $log_2$ of the number of different distinct letters, times the mean length.
+
+I'll also compute some error bars for these, so we can compare them.  I quickly learned that attempting to do this for all the systems under investigation leads to completely unreadable graphs and many overlapping sets of error bars. So we will instead, for the time being, concentrate on the four extreme systems, which are:
+
+1. Full consonants, schwa suppressed vowels.
+2. Full consonants, no vowels.
+3. Voiced/unvoiced merged consonants, schwa suppressed vowels.
+4. Voiced/unvoiced merged consonants, no vowels.
+
+![](human_extremes.svg)
+
+As we can see, this replicates the qualitative predictions from before perfectly.  Most importantly, the somewhat contentious claim that merging consonants and keeping vowels is indeed a more reliable system than keeping all consonants and deleting the vowels.
+
+After that, we compare the theoretical probabilities with the measured probabilities.  These two will be logit transformed, then a linear fit will be made in the logit space (a fairly standard technique).
+
+![](human_line_fit.svg)
+
+This shows that a linear model fits our data pretty well!  The $R^2$ value is about $0.92$, which means that about $92/%$ of the variation between the measurements we see are explained by the reconstruction error.
+
+### Conclusions
+
+The simple conclusion is this: *The reconstruction error can be trusted to predict true human performance if run through a recalibration designed to account for the human ability to use context.*  If you want to get into the details, this calibration is fairly simply and is given by:
+
+$$
+p_{human error} \approx \frac{1}{1 + e^{0.5} \left( \frac{1 - p_{error}}{p_{error}} \right)^{0.9}}.
+$$
+
+A plot of it over the whole range from zero to one, along with the data point tested with error bars is given below.
+
+![](human_full_range.svg)
+
+Interpreting this a bit, note that the predicted human error rate is always below the reconstruction error, indicating that the human ability to leverage context leads to improved performance.
+
+It is also worth adding one caveat, which is that the performance for near zero reconstruction error might drop to essentially zero more rapidly than the theory predicts.  The reason that this might be expected is that spoken English itself has non-zero error rate, however most people can essentially flawlessly record slowly spoken sentences.  The current theory does not take this into account, and so there might be a deviation unaccounted for in the low error rate regime.
+
 ## A Mathematical Caveat
 
 This is only for the true diehards, but the *excluded region* in the graph above is not technically excluded.  That line is derived from a form of [Fano's Inequality](https://en.wikipedia.org/wiki/Fano%27s_inequality) which relates the entropy of the English language, the entropy of the abbreviation system, and the error rate.  This applies universally, however in order to connect the entropy of the abbreviation system to the average length (assuming optimal coding of the shorthand system's symbols) you need to assume that the abbreviation system is [uniquely decodable](https://en.m.wikipedia.org/wiki/Variable-length_code#Uniquely_decodable_codes), which means in essence that you could still read it without any spaces in between words.  
